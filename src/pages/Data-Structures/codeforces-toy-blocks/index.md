@@ -33,5 +33,31 @@ box with the max balls, to ensure that there are same no. of balls in all boxes.
 
 Step 8 : What the hell just happened.
 
-Step 9 : This just happened - the minimum number of balls PER BOX has to be - the larger of 
+Step 9 : We find the minimum number of balls needed per box, first. This will be equal to k = max(a, b), where
 
+a = (initial total no. of blocks)/(n-1)
+
+b = max no. of blocks in any box 
+
+Step 10 : This gave us the minimum no. of elements per box - total number of blocks would be,
+
+a = no. of elements per box * no. of boxes = k*(n - 1)
+
+Step 11 : No. of blocks that need to be added = Total no. of blocks needed - no. of blocks initially present
+
+ans = a - initial sum
+
+Step 12 : Code
+
+```
+int findToyBlocksToBeAdded(vector<int>a) {
+    int n = a.size();
+    int max = *max_element(a.begin(), a.end());
+    int sum = accumulate(a.begin(), a.end(), 0);
+
+    int ans = (n - 1)*(max(sum/(n-1), max)) - sum;
+    return ans;
+}
+```
+Step 13 : Time Complexity : Since we're using no loops or function calls - O(1)
+Space Complexity : O(1) - constant extra space used
