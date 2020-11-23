@@ -52,10 +52,11 @@ Step 12 : Code
 ```
 int findToyBlocksToBeAdded(vector<int>a) {
     int n = a.size();
-    int max = *max_element(a.begin(), a.end());
+    int maxElem = *max_element(a.begin(), a.end());
+    // a fancy function to find sum of a vector without using a loop
     int sum = accumulate(a.begin(), a.end(), 0);
 
-    int ans = (n - 1)*(max(sum/(n-1), max)) - sum;
+    int ans = (n - 1)*(max(sum/(n-1), maxElem)) - sum;
     return ans;
 }
 ```
