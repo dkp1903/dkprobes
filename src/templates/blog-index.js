@@ -27,15 +27,15 @@ class BlogIndexTemplate extends React.Component {
       <p>
 I talk about three things : 
 <a href="https://dkprobes.tech/Tech">
-<h3 style={{size: '30dp', color: "#faed27"}} >Tech</h3></a> I love explaining how things work, in a sarcasm-dosed, funny way, with crazy examples so that you get a feel of the topic. I talk about Full Stack Web Development, Android, Natural Language Processing. 
+<h3 style={{size: '30dp', color: "#FF8A00"}} >Tech</h3></a> I love explaining how things work, in a sarcasm-dosed, funny way, with crazy examples so that you get a feel of the topic. I talk about Full Stack Web Development, Android, Natural Language Processing. 
 
 If you want my posts to reach you via mail, subscribe to my Substack <a href="https://dkprobestech.substack.com/subscribe" target="_blank">here</a>. You can find all my posts on tech <Link to="/Tech">here</Link>
 <a href="https://dkprobes.tech/Markets">
-<h3 style={{color: "#faed27"}}> Markets </h3></a> I analyze markets and business strategy in depth, and bring to you, some of the hottest stories in the market, from complete case studies of WeWork, Uber to analyses of stocks, and corporate concepts.
+<h3 style={{color: "#FF8A00"}}> Markets </h3></a> I analyze markets and business strategy in depth, and bring to you, some of the hottest stories in the market, from complete case studies of WeWork, Uber to analyses of stocks, and corporate concepts.
 
 If you want my posts to reach you via mail, subscribe to my Substack <a href="https://dkprobesmarket.substack.com/subscribe">here</a>. You can find all my posts on markets <Link to="/Markets">here</Link>
 <a href="https://dkprobes.tech/Data-Structures">
-<h3 style={{color: "#faed27"}}> Data Structures and Algorithms </h3></a> DSA is without a doubt, an extremely crucial skill for technical interviews, and being a Software Engineer myself, I have given my share of DSA interviews. Have failed in many, succeeded in some, learnt a lot through all of them. Here, too, I explain standard problems, by outlining the entire thinking process behind the problem, starting from a brute force solution, to optimize it step by step, with time and space complexities explained.
+<h3 style={{color: "#FF8A00"}}> Data Structures and Algorithms </h3></a> DSA is without a doubt, an extremely crucial skill for technical interviews, and being a Software Engineer myself, I have given my share of DSA interviews. Have failed in many, succeeded in some, learnt a lot through all of them. Here, too, I explain standard problems, by outlining the entire thinking process behind the problem, starting from a brute force solution, to optimize it step by step, with time and space complexities explained.
 
 If you want my posts to reach you via mail, subscribe to my Substack <a href="https://dkprobescode.substack.com/subscribe" target="_blank">here</a>. You can find all my posts on DSA <Link to="/Data-Structures">here</Link>
 
@@ -72,7 +72,7 @@ If you want my posts to reach you via mail, subscribe to my Substack <a href="ht
                     {formatPostDate(node.frontmatter.date, langKey)}
                     {` • ${formatReadingTime(node.timeToRead)}`}
                   </small><br />
-          <button style={{backgroundColor: '#faed27', color: '#000000', radius: '5px'}}>Category: {node.frontmatter.tags}</button>
+          <button style={{backgroundColor: '#FF8A00', color: '#000000', radius: '5px'}}>Category: {node.frontmatter.tags}</button>
                 </header>
                 <p
                   dangerouslySetInnerHTML={{ __html: node.frontmatter.spoiler }}
