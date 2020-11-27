@@ -1,15 +1,15 @@
-# [overreacted.io](https://overreacted.io/)
+![Netlify](https://img.shields.io/netlify/1e680ad6-4603-4f3a-b301-55f610a530de?style=plastic)
 
-My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
+This is DKP, a Full Stack JavaScript developer, and Nerd-In-Chief at DKProbes. Here, I write about three things : 
+- Data Structures and Algorithms
+- Markets
+- Tech
 
-To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
+and I can usually do so in a way that's sarcastic enough for you to remember it. I have two bimonthly newsletters, for the posts that I make, so be sure to check out the links on the homepage for those.
 
-## Contributing Translations
+Tech Stack used for the blog : Gatsby(A react framework for making static websites - includes React, GraphQL and a ton of other stuff), Netlify
 
-You can translate any article on the website into your language!
+Blog architecture inspired from my God [Dan Abromov's blog](https://overreacted.io)
 
-Add a Markdown file with the translation to the corresponding article folder. For example `index.fr.md` in `src/pages/optimized-for-change/`.
 
-If you're the first one to translate a post to your language, you'll need to add it to to the list in `./i18n.js`. See [this PR](https://github.com/gaearon/overreacted.io/pull/159) for an example. If your language needs special font characters, add it to the appropriate place in [this list](https://github.com/gaearon/overreacted.io/blob/5de6c128f798506a54a1a34c32cd5446beecc272/src/utils/i18n.js#L15).
-
-**Please don't send translations for the Russian language — I will be translating into it myself when I find time.**
+Cmon now, a blog's readme is the last place you wanna read - head over to my [blog](https://dkprobes.tech) now
