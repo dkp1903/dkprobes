@@ -52,18 +52,19 @@ I analyze markets and business strategy in depth, and bring to you, some of
 the hottest stories in the market, from complete case studies of WeWork, Uber to 
 analyses of stocks, and corporate concepts.
 
-If you want my posts to reach you via mail, subscribe to my Substack 
-<a href="https://dkprobesmarket.substack.com/subscribe">here</a>. 
+If you want my posts to reach you via mail, subscribe to my <a href="https://dkprobesmarket.substack.com/subscribe">Markets and Affairs newsletter
+</a>. 
 You can find all my posts on markets <Link to="/Markets">here</Link>
 
 
 <a href="https://dkprobes.tech/foreign">
 <h3 style={{color: "#FF8A00"}}> International Affairs </h3></a> 
 
+I am politically informed, and I enjoy researching into international affairs and countries' histories - talk, the Afghan war, the US plans for the Middle East, and other exciting stuff, and I try to write about it
+with a bit of analysis, without making it drawn out like the history books. 
 
-If you want my posts to reach you via mail, subscribe to my Substack 
-<a href="https://dkprobesmarket.substack.com/subscribe">here</a>. 
-You can find all my posts on markets <Link to="/Markets">here</Link>
+Subscribe to my <a href="https://dkprobesmarket.substack.com/subscribe">Markets and Affairs newsletter</a> for the latest updates on the same
+
 
 
 
