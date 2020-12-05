@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'gatsby';
 import Toggle from './Toggle';
 import Helmet from 'react-helmet';
-
 import { rhythm, scale } from '../utils/typography';
 import sun from '../assets/sun.png';
 import moon from '../assets/moon.png';
