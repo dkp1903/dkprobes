@@ -25,19 +25,45 @@ class BlogIndexTemplate extends React.Component {
         </aside>
         <main>
       <p>
-I talk about three things : 
-<a href="https://dkprobes.tech/Tech">
-<h3 style={{size: '30dp', color: "#FF8A00"}} >Tech</h3></a> I love explaining how things work, in a sarcasm-dosed, funny way, with crazy examples so that you get a feel of the topic. I talk about Full Stack Web Development, Android, Natural Language Processing. 
+          Hey there! Thanks for stopping by. You're here either because you have heard me rant about how well I explain Tech, teach DSA or write markets. If you heard something else from me,
+          please excuse my spurious claims, and just give this a shot.
+Here's what I talk about : 
+<a href="https://dkprobes.tech/tech">
+<h3 style={{size: '30dp', color: "#FF8A00"}} >Tech</h3></a> 
+Ever thought how good it'd be if you could actually remember all the tech stuff you read? Well, I did, and decided to do something about it, something, I, well, rant a lot about - go funny, rhetoric, short and crystal clear - 
+from Full Stack Web Development to Natural Language Processing to the latest frameworks that are coming in like snow in Chicago(EH!?), I got you covered.
 
-If you want my posts to reach you via mail, subscribe to my Substack <a href="https://dkprobestech.substack.com/subscribe" target="_blank">here</a>. You can find all my posts on tech <Link to="/Tech">here</Link>
-<a href="https://dkprobes.tech/Markets">
-<h3 style={{color: "#FF8A00"}}> Markets </h3></a> I analyze markets and business strategy in depth, and bring to you, some of the hottest stories in the market, from complete case studies of WeWork, Uber to analyses of stocks, and corporate concepts.
+Just sign up for my <a href='https://dkprobescode.substack.com/subscribe'>Tech and DSA newsletter</a>, and you won't be disappointed.
 
-If you want my posts to reach you via mail, subscribe to my Substack <a href="https://dkprobesmarket.substack.com/subscribe">here</a>. You can find all my posts on markets <Link to="/Markets">here</Link>
 <a href="https://dkprobes.tech/Data-Structures">
-<h3 style={{color: "#FF8A00"}}> Data Structures and Algorithms </h3></a> DSA is without a doubt, an extremely crucial skill for technical interviews, and being a Software Engineer myself, I have given my share of DSA interviews. Have failed in many, succeeded in some, learnt a lot through all of them. Here, too, I explain standard problems, by outlining the entire thinking process behind the problem, starting from a brute force solution, to optimize it step by step, with time and space complexities explained.
+<h3 style={{color: "#FF8A00"}}> Data Structures and Algorithms </h3></a> 
+DSA is without a doubt, an extremely crucial skill for technical interviews, and 
+being a Software Engineer myself, I have given my share of DSA interviews. 
+Have failed in many, succeeded in some, learnt a lot through all of them. 
+Here, too, I explain standard problems, by outlining the entire thinking process behind 
+the problem, starting from a brute force solution, to optimize it step by step, with time and 
+space complexities explained.
 
-If you want my posts to reach you via mail, subscribe to my Substack <a href="https://dkprobescode.substack.com/subscribe" target="_blank">here</a>. You can find all my posts on DSA <Link to="/Data-Structures">here</Link>
+Just sign up for my <a href='https://dkprobescode.substack.com/subscribe'>Tech and DSA newsletter</a>, and you won't be disappointed.
+
+<a href="https://dkprobes.tech/Markets">
+<h3 style={{color: "#FF8A00"}}> Markets </h3></a> 
+I analyze markets and business strategy in depth, and bring to you, some of 
+the hottest stories in the market, from complete case studies of WeWork, Uber to 
+analyses of stocks, and corporate concepts.
+
+If you want my posts to reach you via mail, subscribe to my Substack 
+<a href="https://dkprobesmarket.substack.com/subscribe">here</a>. 
+You can find all my posts on markets <Link to="/Markets">here</Link>
+
+
+<a href="https://dkprobes.tech/foreign">
+<h3 style={{color: "#FF8A00"}}> International Affairs </h3></a> 
+
+
+If you want my posts to reach you via mail, subscribe to my Substack 
+<a href="https://dkprobesmarket.substack.com/subscribe">here</a>. 
+You can find all my posts on markets <Link to="/Markets">here</Link>
 
 
 

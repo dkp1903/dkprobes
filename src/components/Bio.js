@@ -23,9 +23,9 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Words by{' '}
+          Probes by{' '}
           <a href="https://mobile.twitter.com/dkp1903">Dushyant Pathak</a>.{' '}
-          I write tech and markets.
+            Easy explain - DSA, Tech, Markets and more
         </p>
 
         
