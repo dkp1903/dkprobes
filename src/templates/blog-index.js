@@ -65,7 +65,7 @@ with a bit of analysis, without making it drawn out like the history books.
 
 Subscribe to my <a href="https://dkprobesmarket.substack.com/subscribe">Markets and Affairs newsletter</a> for the latest updates on the same
 
-
+And most of all, I am always thinking on making things better - more interesting stuff, more ways to express it in, so do keep a check here to not miss something you might not want to be missing.
 
 
 </p>
