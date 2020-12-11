@@ -1,0 +1,15 @@
+The United States war on Afghanisthan
+
+Many of us tend to believe that the US first took more than a fleeting interest in Afghanisthan only after the infamous 9/11 World Trade Center attacks. That is, however, not the case. The US, following its ideologue as a proponent for democracy, took notice as, in the early 70s, the existing Shah of Aghanisthan was overthrown, and Afghanisthan took on its spell of multiple governmental structures, flipping between democratic parties, to Islamic extremist ones as more people joined rebellions.
+
+While the US did take interest in the developments, it was cautious to take a more aggressive role - it was already going through a lot in itself. President Kennedy had been shockingly assassinated in '63, relations with Cuba were worse than ever, the Vietnam war, the Watergate scandal leading to the first and only Presidential resignation from office, the Cold war with Russia at historic highs, and more. However, in 1979, the USSR military swooped in to support the regime against the uprisings, and the US and its allies, Saudi Arabia, Pakistan, swooped in to protect the rebels, the latter two, with the fear that the uprisings of the Pashtun community might provoke Pashtuns in their own countries to get some ideas.
+
+It was during these uprisings, that several men were disillusioned and radicalized, with the result, that in 1994, the Taliban was founded, the extremist organization preaching strict adherence to Sharia law, and soon after, another organization, by an Arab, Osama Bin Laden - the Al Qaeda.
+
+Al Qaeda was suspected to be behind the bombings of the US embassies in Kenya and Tanzania in 1998, and that meant that the US lost its temper. President Clinton ordered CIA special forces to go into Afghanisthan to capture and exterminate bin Laden and other AQ leadership, but they were shielded by the Taliban, and thus escaped.
+
+Then came, 9/11 - a sunny day in the US. 4 US airplanes were hijacked soon after take off - two of them rammed into the World Trade Center towers in New York City, and one, the Pentagon, the organization at the helm of US defence. The 4th one was meant to crash into the Capitol, which houses the offices for the US representatives and senators, but due to the heroic acts of passengers onboard, they managed to subvert it, and the plane crashed in a field near Shanksville, Pennsylvania. Around 3000 people died in these vile attacks, and the US was in a state of shock.
+
+As soon as it became clear that AQ jihadists were the hijackers, the Bush government demanded Taliban to cough up the leaders. It is noteworthy, that 15 of the 20 terrorists were from Saudi Arabia, a US ally. When the Taliban demanded proof that it was AQ and bin Laden behind the attacks, the US lost its temper.
+
+On October 7, 2001, President George W Bush along with the support of the UK, launched Operation Enduring Freedom, to free Afghanisthan of the extremist, terrorist-harboring government. The two were joined by the 
