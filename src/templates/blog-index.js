@@ -28,12 +28,6 @@ class BlogIndexTemplate extends React.Component {
           Hey there! Thanks for stopping by. You're here either because you have heard me rant about how well I explain Tech, teach DSA or write markets. If you heard something else from me,
           please excuse my spurious claims, and just give this a shot.
 Here's what I talk about : 
-<a href="https://dkprobes.tech/tech">
-<h3 style={{size: '30dp', color: "#FF8A00"}} >Tech</h3></a> 
-Ever thought how good it'd be if you could actually remember all the tech stuff you read? Well, I did, and decided to do something about it, something, I, well, rant a lot about - go funny, rhetoric, short and crystal clear - 
-from Full Stack Web Development to Natural Language Processing to the latest frameworks that are coming in like snow in Chicago(EH!?), I got you covered.
-
-Just sign up for my <a href='https://dkprobescode.substack.com/subscribe'>Tech and DSA newsletter</a>, and you won't be disappointed.
 
 <a href="https://dkprobes.tech/Data-Structures">
 <h3 style={{color: "#FF8A00"}}> Data Structures and Algorithms </h3></a> 
@@ -43,17 +37,27 @@ Have failed in many, succeeded in some, learnt a lot through all of them.
 Here, too, I explain standard problems, by outlining the entire thinking process behind 
 the problem, starting from a brute force solution, to optimize it step by step, with time and 
 space complexities explained.
-<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+
+<a href="https://dkprobes.tech/Tech">
+<h3 style={{size: '30dp', color: "#FF8A00"}} >Tech</h3></a> 
+Ever thought how good it'd be if you could actually remember all the tech stuff you read? Well, I did, and decided to do something about it, something, I, well, rant a lot about - go funny, rhetoric, short and crystal clear - 
+from Full Stack Web Development to Natural Language Processing to the latest frameworks that are coming in like snow in Chicago(EH!?), I got you covered.
+
+Just sign up for my Tech and DSA newsletter below, and you won't be disappointed.
+<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+
 
 <a href="https://dkprobes.tech/Markets">
 <h3 style={{color: "#FF8A00"}}> Markets </h3></a> 
 I analyze markets and business strategy in depth, and bring to you, some of 
 the hottest stories in the market, from complete case studies of WeWork, Uber to 
 analyses of stocks, and corporate concepts.
-
-If you want my posts to reach you via mail, subscribe to my <a href="https://dkprobesmarket.substack.com/subscribe">Markets and Affairs newsletter
-</a>. 
 You can find all my posts on markets <Link to="/Markets">here</Link>
+
+If you want my posts to reach you via mail, subscribe to my Markets and Affairs newsletter
+<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+ 
 
 
 <a href="https://dkprobes.tech/foreign">
@@ -62,7 +66,9 @@ You can find all my posts on markets <Link to="/Markets">here</Link>
 I am politically informed, and I enjoy researching into international affairs and countries' histories - talk, the Afghan war, the US plans for the Middle East, and other exciting stuff, and I try to write about it
 with a bit of analysis, without making it drawn out like the history books. 
 
-Subscribe to my <a href="https://dkprobesmarket.substack.com/subscribe">Markets and Affairs newsletter</a> for the latest updates on the same
+Subscribe to my Markets and Affairs newsletter for the latest updates on the same
+<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+
 
 And most of all, I am always thinking on making things better - more interesting stuff, more ways to express it in, so do keep a check here to not miss something you might not want to be missing.
 
