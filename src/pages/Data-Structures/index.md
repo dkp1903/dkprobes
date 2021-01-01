@@ -21,5 +21,4 @@ Quick Sort : [here](https://dkprobes.tech/Data-Structures/quick-sort)
 
 Merge Sort : [here](https://dkprobes.tech/Data-Structures/merge-sort)
 
-
-Want a mail with the content whenever it's published? Subscribe [here](https://dkprobescode.substack.com/subscribe)
+<iframe src="https://dkprobescode.substack.com/embed" width="80" height="30" style=" background:#000; color:#29ff14; border-radius: 19px;" frameborder="0" scrolling="no"></iframe>

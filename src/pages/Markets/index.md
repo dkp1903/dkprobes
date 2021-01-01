@@ -23,5 +23,4 @@ The WeWork story - Part 2 - [here](https://dkprobes.tech/Markets/wework-2)
 
 The WeWork story - Part 1 - [here](https://dkprobes.tech/Markets/wework)
 
-
-Want to get new content via mail? Subscribe [here](https://dkprobesmarket.substack.com/subscribe)
+<iframe src="https://dkprobesmarket.substack.com/embed" width="80" height="30" style=" background:#000; color:#29ff14; border-radius: 19px;" frameborder="0" scrolling="no"></iframe>

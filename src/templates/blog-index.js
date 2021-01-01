@@ -43,8 +43,7 @@ Have failed in many, succeeded in some, learnt a lot through all of them.
 Here, too, I explain standard problems, by outlining the entire thinking process behind 
 the problem, starting from a brute force solution, to optimize it step by step, with time and 
 space complexities explained.
-
-Just sign up for my <a href='https://dkprobescode.substack.com/subscribe'>Tech and DSA newsletter</a>, and you won't be disappointed.
+<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 <a href="https://dkprobes.tech/Markets">
 <h3 style={{color: "#FF8A00"}}> Markets </h3></a> 

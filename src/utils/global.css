@@ -19,10 +19,10 @@ body.light {
 body.dark {
   -webkit-font-smoothing: antialiased;
 
-  --bg: #000000;
+  --bg: #000;
   --bg-secondary: rgb(54, 60, 72);
   --header: #ffffff;
-  --textNormal: #29ff14;
+  --textNormal: #04d9ff;
   --textTitle: #ff8a00;
   --textLink: var(--blue);
   --hr: hsla(0, 0%, 100%, 0.2);

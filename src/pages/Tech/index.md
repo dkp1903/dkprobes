@@ -6,4 +6,4 @@ tags: ["tech"]
 
 ---
 
-[First step to AyncJS](./asyncjs-1)
+[First step to AyncJ](./asyncjs-1)
