@@ -11,6 +11,7 @@
     "url": "https://github.com/gaearon/overreacted.io/issues"
   },
   "dependencies": {
+    "@raae/gatsby-remark-oembed": "^0.1.1",
     "gatsby": "^2.0.76",
     "gatsby-plugin-catch-links": "^2.0.9",
     "gatsby-plugin-ebook": "^1.0.2",
