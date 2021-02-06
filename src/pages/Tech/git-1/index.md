@@ -68,7 +68,7 @@ Quick answer : Because companies practically live on git to manage extra large c
 
 ### Resources, as promised - 
 
-- Here's a pretty decent article that I followed while making the slides - [Link](https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395)
+- Here's a pretty decent article that I followed while making the slides - [Link](https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395).
 It has enough info to help you know almost all the git you'll ever need
 
 - [A FREE Udacity course on Git](https://www.udacity.com/course/version-control-with-git--ud123)
