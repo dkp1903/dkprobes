@@ -47,7 +47,7 @@ from Full Stack Web Development to Natural Language Processing to the latest fra
 
 Just sign up for my Tech and DSA newsletter below, and you won't be disappointed.
 <iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
-
+{/* 
 <li>Non Tech</li>
 <a href="https://dkprobes.tech/Markets">
 <h3 style={{color: "#FF8A00"}}> Markets </h3></a> 
@@ -68,7 +68,7 @@ I am politically informed, and I enjoy researching into international affairs an
 with a bit of analysis, without making it drawn out like the history books. 
 
 Subscribe to my Markets and Affairs newsletter for the latest updates on the same
-<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe> */}
 
 <br />
 And most of all, I am always thinking on making things better - more interesting stuff, more ways to express it in, so do keep a check here to not miss something you might not want to be missing.
