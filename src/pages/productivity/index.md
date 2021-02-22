@@ -5,3 +5,5 @@ description: Being a punch drunk productivity buff, I spend half my day explorin
 tags: ["productivity"]
 
 ---
+
+Being a punch drunk productivity buff, I spend half my day exploring a variety of tools and techniques to try and boost productivity, and I love to talk about it
