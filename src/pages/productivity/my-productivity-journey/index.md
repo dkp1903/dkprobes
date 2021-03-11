@@ -1,77 +1,91 @@
 ---
-title: Productivity Part 1 - the tools I use, and those I decided not to
-date: "2021-02-18T22:40:32.169Z"
+title: Productivity Part 1 
+date: "2021-03-12T22:40:32.169Z"
 description: Productivity tools I have used and those I decided not to use
 tags: ["productivity"]
 
 ---
 
 **Disclaimer : This is an opinion post. I get no reimbursement in cash or kind in any way from any of the tools/companies mentioned in the post. I write of my experience, with no attempt to disrespect the creators of the applications.** 
+Productivity is a weird thing - almost everyone wants it. But almost everyone wants different things, when they say productivity. For some, checking off a few rough tasks off a sheet or notes app is productive. For others, a carefully planned and scheduled execution and analysis of their day to day obligations is productivity. And like it or not, figuring out what kind of person you are will be make or break when you start your attempt to be productive. 
 
-Productivity is a dream for all, aim for most, and actionable for some. I went through all three phases - I was awed by how scheduled could life actually be, how I wanted that, and finally, what I would need to do to get there. But like all other things in life, too many cooks spoil the broth. Stark contrast from the olden days when you used sticky notes and a device known as a pen to note down important stuff, the pandemic has made even this basic, seemingly undying aspect digital. And being what I am, a Software Engineer, I felt it my duty to follow the trend and go digital with that.
+Let's talk about productivity tools. There's no app that can tell you what kind of person you are in one go - you can either do a trial and error of every tool and every strategy, or can just introspect.
 
- 
+I am dumb, so I did the former, then the latter - first trying through a myriad of todolists, productivity tools, project manager apps to figure out what suited me, and then, after giving up, retrospected on what I really wanted, and what would work best for me. 
 
-And it was this idea of being digitally productive, scheduled and well managed that found me rummaging through Play store and Producthunt looking for good productivity tools.
+It starts with asking yourself a simple question. What category do you relate to, the most : 
 
-This might sound cliche, but productivity is a very subjective term, and that means the tools out there intended to make us more productive are based on SOMEONE'S definition and understanding of productivity, and might not work the way we want them to. If your definition coincides with theirs, well and good, otherwise, you're gonna have to squeeze.
+1. Are you a person who wants a simple, non intrusive app that you can quickly jot down tasks on, so that you don't forget, and tick them off when you're done?
+2. Are you a person who wants to plan your schedule down to the minute, either because you're like Monica from FRIENDS and love planning, or because you're busy enough to have to stick to the schedule, or you're just trying to army-discipline yourself?
+3. You're either of 1 or 2, based on your mood of the day.
 
-Another point - a large majority of tools are focused on team productivity - making sure teams are able to work together with as less of meetings and repetition and overcommunication and miscommunication as possible. The team tools, while they're perfectly usable for individual users, bring in a lot of team specific features, like chat, quick meeting scheduling, user activity, that are not only not needed for individual users, but also confuse and disrupt, contradicting the very aim with which we had begun to use the tools in the first place. 
+As you can well expect, I was at 3, and that's one of the dumbest categories you can be in.
 
-I started my quest through simple trial and error. Over the course of a couple of months, I tried more than 15 different apps and tools. In all, repeat, ALL of em, I found something lacking, because remember the above point - productivity tools are built on how the builder conceives productivity. If you want a fully customized solution, go make your own 😡
+So, if you fall into 3, get a hold of your emotions, figure out what WORKS for you, NOT what you LIKE. I realized that all I wanted couldn't fit into a rough todolist. Plus, there's some bit of Monica in me. So I went with 2.
 
-(And while I did try to list out all that I needed to make my own productivity tool from scratch, it was not just confusing to figure out all I wanted and hard to make it all, but also pointless to be building everything from scratch, when you could just use the tools available for use if you found the right one.)
+If you're with 1 - believe me, dude, you're lucky. There's a plethora of apps out there. If you need a sync across multiple devices, I'd recommend [Any.Do/Google](http://any.Do/Google) Keep or any similar todolist app. They allow you to jot tasks and check them off when you're done. Any.Do allows you categories to categorize your task into - say, Groceries, ~~wetting~~ making the bed, office work, and so on. The advantage of such an approach is that you're a free bird, and can permit yourself a flexible schedule and can stay away from your devices, so long as you remember to check off the tasks.
 
-Just like every other beginner, I started with a lot of enthusiasm, going on to one of the most sophisticated apps out there - Clickup. For the uninitiated, it's this gigantic monolith of an application that is touted to store every aspect of your life - tasks, projects, goals, schedules, have a zillion integrations with other apps like Gmail, Google Calendar, and a host of other features like doc spaces that had me crushed under a barrage of ~~awe~~ confusion. I struggled to find my way about the application for the first couple of hours, finally got some hang of it, and erected a basic enough structure of my projects, tasks and notes into the app. I tried using it a couple of days, but finally gave it up. Here's my feedback on the same - 
+I tried this approach at first, during my ~~idiotic~~ formative years. But it didn't quite work for me. Simple reason - not everything I wanted to do was a task. I wanted to make notes to jot down thoughts, have to do lists, manage multiple projects, have deadlines, calendar views to projects and I wanted to look cooler than a todo-list user. So, this approach wasn't for me.
 
-Pros - 
+I went to 2.
 
-- Can hold everything, provided you have time to set it all up.
-- Allows notifications, email and mobile. This was a very important point for me - remember I said, I needed someone to push me?
-- UI is pretty good looking
+Oh. Dear. Lord.
 
-Cons -
+It's hell on Earth out here, let me tell you. 12312432513123 apps, each of them claiming to be the 'everything' app, and yet, failing to provide me the one basic necessity - MAKE ME PRODUCTIVE.
 
-- WAYYYYYYYYYY TOOOOOOO complex. The good guys at Clickup didn't want to do a half ass job, so they did it all. And when I say all, I mean it. And while it might be good and usable for a lot of folks, my premise was simple - I needed an app that would make me more productive, save me some time. Clickup was making me spend more time on managing the damn thing itself.
-- THe UI has excellent color choices and look, but often buggy and behaves slightly unexpectedly, and thus, UX falls short.
-- Clickup has this distinction between tasks, reminders, agenda that I could never get the hang of - and that meant that if I wanted to view all that I had to do, I always ended up missing out something because all of these wouldn't turn up in the same place.
+I am more than sure I am not the only one who'd faced this above existential crisis when looking at the options available - when there's so much, but almost nothing works.
 
-Thus, I realized Clickup wasn't for me. I next switched to Monday.com, quite similar to Clickup in most aspects, and didn't really find a solution yet again(Go figure). I next tried Asana, which was good for task management, but a lot of its features went into the premium banner, and that too, fell short of expectations.
+And like I said in the very first line in this article, this feeling has to do with our interpretations of productivity.
 
-Trello has been one of the earliest entrants to the productivity game, and has earned a sturdy, easy-to-work reputation. I had used it to some success in an earlier venture of mine, and thus, was hopefully it might provide me with a solution. Here's what I found - 
+You see, most of these apps are made to encompass a lot of different folks' requirements. Correct that, not even folks. Development teams, marketing teams, individuals, grocery shop owners, you name it. And in this attempt at generalization, these apps have been made so dizzyingly complex, that they fail to do the one thing they're supposed to do - save time, and make us productive.
 
-Pros
+I was overwhelmed, yes, but not beaten yet. I tried out a few different apps for a week, each. Started with Clickup, this monstrosity of an application that has just one thing - everything. Document databases, calendars, project managers, a zillion integration, agendas, you name it. It was so useful, that it was totally useless for me. No, really - no offence to the great guys at Clickup, who did a heavenly job with the UI and functionality both - but it's just not a tool meant for a single individual who has a few todo+ aspirations. It'd be really useful for larger teams, but wasn't meant for me.
 
-- Lightning fast UI - You click, and it's done. No lag. Clickup had quite a bit of lag
-- Very simple to understand, intuitive UI. You know what goes where
-- Really good if task management/project management is your only goal
+Similarly, I tried Trello - the perfect project-management version of 'Old is Gold'. Trello has been around for way longer than the other project management apps that have picked up steam only recently, and it shows - with an antiquated UI(Again, no offence meant), but lightning fast. It is a Kanban board version of a todolist. But, this didn't work for me on a couple of accounts - 
 
-Cons
+1. Like I said, all I wanted to use the tool for, wasn't just tasks. And while Trello CAN be used to make notes and stuff, it didn't just feel quite right.
+2. Trello's mobile app is rather lousy, and given about 70% of my requirements come up when I am out of touch with my PC, this was a serious hindrance.
 
-- Task management/project management wasn't my only goal, unfortunately. I also wanted a scheduler, a note taker and a few other features which Trello didn't provide.
-- The Mobile app isn't very good. Mobile work was one primary requirement that I had, and Trello didn't quite help me here.
-- Notification system is a lil messed up. I don't know if it was just some blunder I made, but I'd either get a barrage of notifications, important, unimportant everything, or get just none at all. Not something I could quite wrap my head around
-- Trello limits the number of powerups in the free version to three  only  - I needed more. Powerups are add-ons, like Calendar, Butler, Drive integration etc
+Similarly, I tried quite a few other tools - Monday.com(very similar to Clickup), Asana(slightly toned down version of Clickup), and a few others, all with little success.
 
-Thus, Trello didn't work out for me either. I also tried normal todo list apps like Todoist, Any.Do, Google Tasks, but they didnt really fit all my requirements.
+While this was all quite frustrating, and to some of you, might look like a waste of time(hell, for a moment, it looked like a waste of time to me too), but it made clear a few things in my mind that I wasn't clear with, in the first place.
 
-At this point, as you can well expect, I was pretty close to giving up. I had almost made up my mind that productivity tools weren't for me, and I'd better stick to pen and paper and writing things on whatsapp as todos. 
+1. Customization was key - I had requirements that would need customization that no app in the world could possibly provide, and that implied that some compromise would have to be made.
+2. Mobile friendliness was a key requirement. As I said, more than 70% of my task scheduling was on mobile - when I was out jogging, while making tea, at the grocer's, and so on.
+3. Maybe, 'everything' apps, are not the thing. Maybe, you need more than one tool.
 
-Then, one day, I ran into a news article about a technical outage at Notion. Notion, hmm. I had used it before to hold some stuff for me, but it was pretty early in the development phase, and didn't have a lot of integrations and features I had needed. But one thing struck me - unlike all of the tools I mentioned above, Notion touted itself as being a personal productivity tool. In fact, sharing is allowed for only upto 5 people in the free version, so they mean it. The best part? It was extremely customizable. Essentially, all you got was empty pages. You could do whatever the heck you wanted with them - create task lists, timeline views, calendar views, just write quick notes, add embeds, anything. 
+And that,(hopefully) was one of the only things I have ever thought and not regretted thinking about. 
 
-Having to set it all up was one reason why I hadn't considered Notion earlier, but now, after trying all the apps that gave you a structure and seeing how that turned out, this customizability appealed a lot more to me.
+So, I sat down and jotted exactly what I wanted - using pen and paper(pen is a cylindrical stick like thing that releases blue colored fluid that you can make artistic impressions on paper with - this is just in case you've forgotten what pen and paper is - for a few months, I had.)
 
-So, once again determined, I started out. I had enough of a bittersweet experience trying to add everything to an app, only to ditch it one day later, so I took it slow. I first created only a couple of pages, one to hold a list of tasks for my internship, the other as a quick note to record stuff discussed in meetings. And I tried working it a couple of days. 
+I needed : 
 
-Pros - 
+1. A place where I can write my todos
+2. Schedule my day on a calendar(because I couldn't trust myself to get any monotonous stuff done if I didn't follow a strict schedule)
+3. Allow reminders
+4. Have a good mobile experience
+5. Serve as a document database, where I can jot my thoughts(this article was first written in the document database 🙂)
 
-- This is probably the best part, and a primary reason why I have stuck with Notion - it actually doesn't take time to mark up stuff there. As I said, it's unopinionated and very customizable, so, I could just use it for what it's meant to be used for - productivity, and I soon found I was better able to keep track of stuff off my mind.
+And then, as luck would have it, the answer literally fell in my lap. 
 
-There are quite a few pros, but I wasn't about to learn them until later, so will mention them later.
+The very day I was introspecting, I ran into a news headlines, which stated that the guys at Notion had been idiots and forgotten to renew their domain leasing, which meant that the service was down for a few hours. I immediately felt like frat bros with these guys. 
 
-Cons - 
+I had heard of Notion, and even looked it over once, but as opposed to some other tools, it was kinda early in the game, and lacked a lot of features, so I had given it up.
 
-- Mobile support is meh-ish. While Notion has a well maintained mobile app, given its customizability, mobile experience isn't the best one. I don't blame them. I could never use Google docs to my satisfaction on the phone. Notion has a similar UI and use case.
-- Reminders - while reminders are supposed to work on Notion, sending push notifications via the mobile app, as well as Desktop and email notifications, the latter didn't work for me - probably some error I did activating them. And no reminders means no push - that was one of my earliest requirements - someone had to push me to do something.
+But its greatest trump card, no wait, Biden card - it was entirely customizable. It was practically only a modified Google docs with a gazillion templates available - Task boards, calendar views, lists, habit trackers, notes templates- you name it.
 
-That's when I stumbled, quite literally, upon the answer - this voice that would start blabbing when I mistakenly pressed the home button for too long - Google Assistant. Like almost everyone else, I had done a lot of BS with Google Assistant - asking it if he had a girlfriend, if he was a he, if he knew who his boss was - that kinda 'locker room talk'. Now, I decided to actually use it for what it was meant to be used for.
+While a lot of users feel overwhelmed by Notion, after what I had been through with tools like Clickup, Notion felt like a solitaire game.
+
+Of course, Notion had its limitations - it lacks almost any integration support - it has integrations with Asana, Trello, Evernote - essentially letting you migrate your tasks from these to Notion, but not much help if you weren't using these in the first place. The reminder system was also weird-ish, on Notion.
+
+So, I used good old Google Calendar to schedule my day, then used a Notion Google calendar widget from [indify.co](http://indify.co) to add that Google Calendar as an embed to my Notion page. This is what it looks like
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f92f035b-6a37-486a-93a3-97ebc5d1c47d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f92f035b-6a37-486a-93a3-97ebc5d1c47d/Untitled.png)
+
+Google calendar, being Google's product, had a pretty incessant scheduling and reminder system, so I relied on it, and it works, for most part.
+
+In terms of Mobile support, working on Notion mobile app is like writing on Google Docs on mobile - it's cluttered and jampacked, but works okay-ish, especially since I didn't really want yet another tool.
+
+Thus, I had it - the not-so-magical trick that would(or would not) help me achieve that blue moon productivity. 
+
+I now use Notion to manage my projects in table/calendar views, add my todolist there, use it for quick notes and writing(I am writing this on Notion, as I had mentioned earlier), and use it to keep track of quite a few things. I use Google calendar for scheduling my day, and then making excuses to not follow the schedule most of the time.😎
