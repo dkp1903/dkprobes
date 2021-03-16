@@ -7,6 +7,8 @@ tags: ["productivity"]
 ---
 
 **Disclaimer : This is an opinion post. I get no reimbursement in cash or kind in any way from any of the tools/companies mentioned in the post. I write of my experience, with no attempt to disrespect the creators of the applications.** 
+
+
 Productivity is a weird thing - almost everyone wants it. But almost everyone wants different things, when they say productivity. For some, checking off a few rough tasks off a sheet or notes app is productive. For others, a carefully planned and scheduled execution and analysis of their day to day obligations is productivity. And like it or not, figuring out what kind of person you are will be make or break when you start your attempt to be productive. 
 
 Let's talk about productivity tools. There's no app that can tell you what kind of person you are in one go - you can either do a trial and error of every tool and every strategy, or can just introspect.
