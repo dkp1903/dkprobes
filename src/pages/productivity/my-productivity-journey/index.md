@@ -80,7 +80,7 @@ While a lot of users feel overwhelmed by Notion, after what I had been through w
 
 Of course, Notion had its limitations - it lacks almost any integration support - it has integrations with Asana, Trello, Evernote - essentially letting you migrate your tasks from these to Notion, but not much help if you weren't using these in the first place. The reminder system was also weird-ish, on Notion.
 
-So, I used good old Google Calendar to schedule my day, then used a Notion Google calendar widget from [indify.co](http://indify.co) to add that Google Calendar as an embed to my Notion page. This is what it looks like
+So, I used good old Google Calendar to schedule my day, then used a Notion Google calendar widget from [indify.co](http://indify.co) to add that Google Calendar as an embed to my Notion page. 
 
 
 Google calendar, being Google's product, had a pretty incessant scheduling and reminder system, so I relied on it, and it works, for most part.
