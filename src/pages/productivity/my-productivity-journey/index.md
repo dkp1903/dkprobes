@@ -82,9 +82,15 @@ So, I used good old Google Calendar to schedule my day, then used a Notion Googl
 
 
 Google calendar, being Google's product, had a pretty incessant scheduling and reminder system, so I relied on it, and it works, for most part.
-(Edit - Ten days after I wrote this article, I gave up on strict jampacked Google Calendar schedules. I realized that I had a rough structure in my mind about what needed to be done when, and anything beyond that, I could simply not follow and just ended up being a bunch of notifications jarring to the ear, so I deleted much of them.)
+
+
+
 In terms of Mobile support, working on Notion mobile app is like writing on Google Docs on mobile - it's cluttered and jampacked, but works okay-ish, especially since I didn't really want yet another tool.
 
 Thus, I had it - the not-so-magical trick that would(or would not) help me achieve that blue moon productivity. 
 
 I now use Notion to manage my projects in table/calendar views, add my todolist there, use it for quick notes and writing(I am writing this on Notion, as I had mentioned earlier), and use it to keep track of quite a few things. I use Google calendar for scheduling my day, and then making excuses to not follow the schedule most of the time.😎
+
+(Edit - Ten days after I wrote this article, I gave up on strict jampacked Google Calendar schedules. I realized that I had a rough structure in my mind about what needed to be done when, and anything beyond that, I could simply not follow and just ended up being a bunch of notifications jarring to the ear, so I deleted much of them.)
+
+In the coming posts, I'll talk about the productivity strategies I used/tried to use and failed at.
