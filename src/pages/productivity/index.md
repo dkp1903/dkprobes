@@ -6,4 +6,8 @@ tags: ["productivity"]
 
 ---
 
-Being a punch drunk productivity buff, I spend half my day exploring a variety of tools and techniques to try and boost productivity, and I love to talk about it
+Being a punch drunk productivity buff, I spend
+ half my day exploring a variety of tools and techniques 
+ to try and boost productivity, and I love to talk about it
+
+[My productivity journey - Part 1](https://dkprobes.tech/productivity/my-productivity-journey)

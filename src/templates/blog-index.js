@@ -25,11 +25,11 @@ class BlogIndexTemplate extends React.Component {
         </aside>
         <main>
       <p>
-          Hey there! Thanks for stopping by. You're here either because you have heard me rant about how well I explain Tech, teach DSA or write markets. If you heard something else from me,
-          please excuse my spurious claims, and just give this a shot.
-Here's what I talk about : 
-<ul>
-  <li>Tech</li>
+        Welcome to my megaphone. I am ~Dushyant~ DKP, a Software Engineer by profession. I write regularly about <a href="https://dkprobes.tech/Tech">Tech Concepts</a>, <a href="https://dkprobes.tech/Data-Structures">Data Structures and Algorithms</a> and <a href="https://dkprobes.tech/productivity">Productivity</a>, and more occasionally, about
+         Markets, Foreign Affairs and my experiences working with the companies I have interned with.
+        <br /> <br />
+        I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
+
 <a href="https://dkprobes.tech/Data-Structures">
 <h3 style={{color: "#FF8A00"}}> Data Structures and Algorithms </h3></a> 
 DSA is without a doubt, an extremely crucial skill for technical interviews, and 
@@ -42,13 +42,18 @@ space complexities explained.
 
 <a href="https://dkprobes.tech/Tech">
 <h3 style={{size: '30dp', color: "#FF8A00"}} >Tech</h3></a> 
-Ever thought how good it'd be if you could actually remember all the tech stuff you read? Well, I did, and decided to do something about it, something, I, well, rant a lot about - go funny, rhetoric, short and crystal clear - 
-from Full Stack Web Development to Natural Language Processing to the latest frameworks that are coming in like snow in Chicago(EH!?), I got you covered.
 
-Just sign up for my Tech and DSA newsletter below, and you won't be disappointed.
+Tech is best learnt when it's explained so that it's hands on, retention-first and focused - and that's what I bring to you. 
+I have been developing full stack applications in Javascript, Python and related technologies 
+for more than 3 years now, and regularly learn new technologies, and architectures, and write about the same, so if that interests you, do check this out. 
+
 <iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
-{/* 
-<li>Non Tech</li>
+
+<a href="https://dkprobes.tech/productivity">
+<h3 style={{size: '30dp', color: "#FF8A00"}} >Productivity</h3></a> 
+
+I routinely experiment with different productivity tools and techniques and write about the experiences, so if that interests you, check this out!
+
 <a href="https://dkprobes.tech/Markets">
 <h3 style={{color: "#FF8A00"}}> Markets </h3></a> 
 I analyze markets and business strategy in depth, and bring to you, some of 
@@ -68,11 +73,10 @@ I am politically informed, and I enjoy researching into international affairs an
 with a bit of analysis, without making it drawn out like the history books. 
 
 Subscribe to my Markets and Affairs newsletter for the latest updates on the same
-<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe> */}
+<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 <br />
 And most of all, I am always thinking on making things better - more interesting stuff, more ways to express it in, so do keep a check here to not miss something you might not want to be missing.
-</ul>
 
 </p>
 
