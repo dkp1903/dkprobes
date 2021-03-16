@@ -17,9 +17,9 @@ import {
   replaceAnchorLinksByLanguage,
 } from '../utils/i18n';
 
-const GITHUB_USERNAME = 'gaearon';
-const GITHUB_REPO_NAME = 'overreacted.io';
-const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+const GITHUB_USERNAME = 'dkp1903';
+const GITHUB_REPO_NAME = 'blogo';
+const systemFont = `monospace, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
 
