@@ -80,10 +80,9 @@ Of course, Notion had its limitations - it lacks almost any integration support 
 
 So, I used good old Google Calendar to schedule my day, then used a Notion Google calendar widget from [indify.co](http://indify.co) to add that Google Calendar as an embed to my Notion page. This is what it looks like
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f92f035b-6a37-486a-93a3-97ebc5d1c47d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f92f035b-6a37-486a-93a3-97ebc5d1c47d/Untitled.png)
 
 Google calendar, being Google's product, had a pretty incessant scheduling and reminder system, so I relied on it, and it works, for most part.
-
+(Edit - Ten days after I wrote this article, I gave up on strict jampacked Google Calendar schedules. I realized that I had a rough structure in my mind about what needed to be done when, and anything beyond that, I could simply not follow and just ended up being a bunch of notifications jarring to the ear, so I deleted much of them.)
 In terms of Mobile support, working on Notion mobile app is like writing on Google Docs on mobile - it's cluttered and jampacked, but works okay-ish, especially since I didn't really want yet another tool.
 
 Thus, I had it - the not-so-magical trick that would(or would not) help me achieve that blue moon productivity. 
