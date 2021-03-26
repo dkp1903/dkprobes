@@ -35,5 +35,53 @@ that I am working on, both at Crio, and my personal projects, and see if I can g
 
 Trust me, I usually do. 
 
-I usually jog around 30 minutes, then head back home, where I work on my core, arms, legs and chest. I use an app called Myworkoutplanner to keep a track of the workout I do.
+I usually jog around 30 minutes, where I also respond to important messages from my teammates, if any, then head back home, where I work on my core, arms, legs and chest. I use an app called Myworkoutplanner to keep a track of the workout I do.
 
+Once I am done with my workout, I head for a bath, get myself some breakfast, and my second cup of tea for the day (I told you- there's gonna be a lot of tea around)
+
+Then, I spend 15 minutes bringing myself up to speed with the news - I read Al Jazeera, Indian Express, and at times, The Hindu, as I have my breakfast. This helps me stay aware of what's happening around me.
+
+Then, around 10:15, my official workday begins. I start with going over my todos for the day, which I had written earlier in the day. 
+
+I sort them based on urgency, deadlines and the amount of focus required. Monotonous work, I usually avoid doing at the start of my day.
+
+My present set of tasks usually involves creating and improving the codebase infrastructure of Crio's QKart project, which is a minimalist clone of Flipkart. Right now, I am working on creating video content
+for guiding the students through the material and the codebase.
+
+If you think that doesn't sound life a Software Engineering intern's job, think again. It's one thing to write code that you and your experienced teammates understand, another to make students, many of whom are learning this for the first time, to write code the right way.
+
+I usually work at a stretch until 11:15, by which time my mind starts wandering, and thus, I take a break.
+
+At times, if I need, I make yet another cup of tea, or if not, grab some fruit and salad, take a roam around the house, get some chores done, and am back at my desk by 11:30.
+
+I shoot through some more of the work by 12:45, when I break for lunch and chores. 
+
+Post lunch, I am back by 1:20. I spend 10-15 minutes passing time, watching youtube videos or such. 
+
+I usually have a daily sync with my teammate at 2, where we discuss progress, so I prepare myself for the meeting.
+
+I use a tool called Mindup, which allows me to add actionable items, agendas and todos to meetings on my Google calendar. I used to use Notion for this purpose, but I'd have to manually add meeting details, which is slightly cumbersome,
+and I also stared at Notion for around 3-4 hours a day, and I wanted something different not to get bored with it, so.
+
+Once I am done with the meeting, I update my Mindup to ensure that I don't miss out anything discussed on the meeting. Then, is chill time.
+
+Depending on whether or not I have meetings around 3:30/4 (I have them about 2-3 times a week), I watch a part of a movie, or work on some todos on my personal project list, at times.
+
+What I do, what I NEED to do everytime, everyday, without fail, is take a nap between 3:30 - 4/4:30. This is the one thing that I cannot absolutely give up on, how much ever I try.
+
+Once I wake up from my slumbers, I make myself a cup of tea (of course), get to my desk, and work through either my Crio tasks, or my personal project tasks until 6:15, when I step out, yet again, for my second jog of the day. I usually walk/jog around 45 minutes, 
+also including performing chin exercises, stretches and lunges. I get back from the jog around 7:15, and again, work on my muscles for 30 minutes.
+
+Now, some usually say that you shouldn't workout twice a day, but I prefer spreading out exercises over two times of day, because of the limited time I have. I make sure I attack different muscle groups each time.
+
+Next, I take a bath, have dinner with my family, do some chores until 8:45. 
+
+Around 8:45-9:15, I either work on my blog(I am writing this in this very slot), or work on learning Spanish via Duolingo.
+
+Around 9:15, I restart work on my Crio tasks(yeah, I work in the night too), until around 10:15. Then, I take a chill for the day, watch some movies or videos, until 10:45. Between 10:45-11:45, I work on my personal projects, to expand and perfect my skill set.
+
+At 11:45, I, at times, make myself my last cup of tea for the day, and go back to my desk. No, the day's not over.
+
+Between 12-1, I shoot throgh some more Crio tasks, and between 1-whenever I am too drowsy, I work on my personal projects.
+
+Then, at 2, I hit the sack, and I am so tired that I am asleep within 2 minutes.
