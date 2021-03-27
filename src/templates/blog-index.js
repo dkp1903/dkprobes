@@ -42,7 +42,7 @@ space complexities explained.
 </p>
 
 <a href="https://dkprobes.tech/Tech">
-<h3 style={{size: '30dp', color: "#6875f5"}} >Software Development</h3></a> 
+<h3 style={{size: '30dp', padding: "5px 40px", color: "#6875f5"}} >Software Development</h3></a> 
 <p style={{padding: "0px 40px"}}>
 Tech is best learnt when it's explained so that it's hands on, retention-first and focused - and that's what I bring to you. 
 I have been developing full stack applications in Javascript, Python and related technologies 
@@ -55,8 +55,8 @@ Subscribe to my Tech and Markets newsletter
 <h2 style={{color: "#6875f5"}}>Non Tech</h2>
 
 <a href="https://dkprobes.tech/productivity">
-<h3 style={{size: '30dp', color: "#6875f5"}} >Productivity</h3></a> 
-<p style={{padding: "5px 40px"}}>
+<h3 style={{size: '30dp', padding: "5px 40px", color: "#6875f5"}} >Productivity</h3></a> 
+<p style={{padding: "0px 40px"}}>
 I routinely experiment with different productivity tools and techniques and write about the experiences, so if that interests you, check this out!
 </p>
 <a href="https://dkprobes.tech/Markets">
