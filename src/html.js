@@ -14,7 +14,7 @@ export default class HTML extends React.Component {
           />
           {this.props.headComponents}
         </head>
-        <body {...this.props.bodyAttributes} className="light">
+        <body {...this.props.bodyAttributes} className="dark">
           <script
             dangerouslySetInnerHTML={{
               __html: `
