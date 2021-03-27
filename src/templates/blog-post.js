@@ -181,7 +181,7 @@ class BlogPostTemplate extends React.Component {
           </div>
           <h3
             style={{
-              fontFamily: 'Montserrat, sans-serif',
+              fontFamily: systemFont,
               marginTop: rhythm(0.25),
             }}
           >
@@ -189,7 +189,7 @@ class BlogPostTemplate extends React.Component {
               style={{
                 boxShadow: 'none',
                 textDecoration: 'none',
-                color: '#ff8a00',
+                color: '#6875f5',
               }}
               to={'/'}
             >
