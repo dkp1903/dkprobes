@@ -25,7 +25,7 @@ class BlogIndexTemplate extends React.Component {
         </aside>
         <main>
       <p>
-        Welcome to my megaphone. I am ~Dushyant~ DKP, a Software Engineer by profession. I write regularly about <a href="https://dkprobes.tech/Tech">Tech Concepts</a>, <a href="https://dkprobes.tech/Data-Structures">Data Structures and Algorithms</a> and <a href="https://dkprobes.tech/productivity">Productivity</a>, and more occasionally, about
+        Welcome to DKProbes. I am ~Dushyant~ DKP, a Software Engineer by profession. I write regularly about <a href="https://dkprobes.tech/Tech">Full Stack Development</a>, <a href="https://dkprobes.tech/Data-Structures">Data Structures and Algorithms</a> and <a href="https://dkprobes.tech/productivity">Productivity</a>, and more occasionally, about
          Markets, Foreign Affairs and my experiences working with the companies I have interned with.
         <br /> <br />
         I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
