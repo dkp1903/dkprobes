@@ -25,7 +25,7 @@ body.dark {
   --bg: #212324;
   --bg-secondary: rgb(54, 60, 72);
   --header: #ffffff;
-  --textNormal: #dde0e3;
+  --textNormal: #f9fafb;
   --textTitle: #6875f5;
   --textLink: var(--blue);
   --hr: hsla(0, 0%, 100%, 0.2);
