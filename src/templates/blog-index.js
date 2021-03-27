@@ -29,9 +29,9 @@ class BlogIndexTemplate extends React.Component {
          Markets, Foreign Affairs and my experiences working with the companies I have interned with.
         <br /> <br />
         I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
-
+<h2 style={{color: "#6875f5"}}>Tech</h2>
 <a href="https://dkprobes.tech/Data-Structures">
-<h3 style={{color: "#6875f5", padding: "0px 40px"}}> Data Structures and Algorithms </h3></a> 
+<h3 style={{color: "#6875f5", padding: "5px 40px"}}> Data Structures and Algorithms </h3></a> 
 <p style={{padding: "0px 40px"}}>
 DSA is without a doubt, an extremely crucial skill for technical interviews, and 
 being a Software Engineer myself, I have given my share of DSA interviews. 
@@ -40,45 +40,33 @@ Here, too, I explain standard problems, by outlining the entire thinking process
 the problem, starting from a brute force solution, to optimize it step by step, with time and 
 space complexities explained.
 </p>
-<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#212324', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 <a href="https://dkprobes.tech/Tech">
-<h3 style={{size: '30dp', color: "#6875f5"}} >Tech</h3></a> 
-
+<h3 style={{size: '30dp', color: "#6875f5"}} >Software Development</h3></a> 
+<p style={{padding: "0px 40px"}}>
 Tech is best learnt when it's explained so that it's hands on, retention-first and focused - and that's what I bring to you. 
 I have been developing full stack applications in Javascript, Python and related technologies 
 for more than 3 years now, and regularly learn new technologies, and architectures, and write about the same, so if that interests you, do check this out. 
 
-<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+Subscribe to my Tech and Markets newsletter
+<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#212324', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+
+</p>
+<h2 style={{color: "#6875f5"}}>Non Tech</h2>
 
 <a href="https://dkprobes.tech/productivity">
 <h3 style={{size: '30dp', color: "#6875f5"}} >Productivity</h3></a> 
-
+<p style={{padding: "5px 40px"}}>
 I routinely experiment with different productivity tools and techniques and write about the experiences, so if that interests you, check this out!
-
+</p>
 <a href="https://dkprobes.tech/Markets">
-<h3 style={{color: "#6875f5"}}> Markets </h3></a> 
+<h3 style={{color: "#6875f5", padding: "5px 40px"}}> Others </h3></a> 
+<p style={{padding: "5px 40px"}}>
 I analyze markets and business strategy in depth, and bring to you, some of 
 the hottest stories in the market, from complete case studies of WeWork, Uber to 
 analyses of stocks, and corporate concepts.
 You can find all my posts on markets <Link to="/Markets">here</Link>
-
-If you want my posts to reach you via mail, subscribe to my Markets and Affairs newsletter
-<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
- 
-
-
-<a href="https://dkprobes.tech/foreign">
-<h3 style={{color: "#6875f5"}}> International Affairs </h3></a> 
-
-I am politically informed, and I enjoy researching into international affairs and countries' histories - talk, the Afghan war, the US plans for the Middle East, and other exciting stuff, and I try to write about it
-with a bit of analysis, without making it drawn out like the history books. 
-
-Subscribe to my Markets and Affairs newsletter for the latest updates on the same
-<iframe src="https://dkprobesmarket.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
-
-<br />
-And most of all, I am always thinking on making things better - more interesting stuff, more ways to express it in, so do keep a check here to not miss something you might not want to be missing.
+</p>
 
 </p>
 
