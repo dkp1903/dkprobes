@@ -31,14 +31,16 @@ class BlogIndexTemplate extends React.Component {
         I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
 
 <a href="https://dkprobes.tech/Data-Structures">
-<h3 style={{color: "#6875f5", padding: "5px"}}> Data Structures and Algorithms </h3></a> 
+<h3 style={{color: "#6875f5", padding: "40px"}}> Data Structures and Algorithms </h3></a> 
+<p style={{padding: "40px"}}>
 DSA is without a doubt, an extremely crucial skill for technical interviews, and 
 being a Software Engineer myself, I have given my share of DSA interviews. 
 Have failed in many, succeeded in some, learnt a lot through all of them. 
 Here, too, I explain standard problems, by outlining the entire thinking process behind 
 the problem, starting from a brute force solution, to optimize it step by step, with time and 
 space complexities explained.
-<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
+</p>
+<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#212324', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 <a href="https://dkprobes.tech/Tech">
 <h3 style={{size: '30dp', color: "#6875f5"}} >Tech</h3></a> 
