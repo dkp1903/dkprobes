@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 body {
-  --blue: #17b7e7;
+  --blue: #dde0e3;
   background-color: var(--bg);
   font-family: 'Poppins', sans-serif;
 }
@@ -10,7 +10,7 @@ body.light {
   --bg: #ffffff;
   --bg-secondary: rgb(249, 250, 251);
   --header: var(--blue);
-  --textNormal: rgb(57, 13, 255);
+  --textNormal: rgb(74, 74, 74);
   --textTitle: #222;
   --textLink: #000080;
   --hr: hsla(0, 0%, 0%, 0.2);
@@ -22,11 +22,11 @@ body.light {
 body.dark {
   -webkit-font-smoothing: antialiased;
 
-  --bg: #000;
+  --bg: rgb(74, 74, 74);
   --bg-secondary: rgb(54, 60, 72);
   --header: #ffffff;
-  --textNormal: #04d9ff;
-  --textTitle: #ff8a00;
+  --textNormal: #dde0e3;
+  --textTitle: #6875f5;
   --textLink: var(--blue);
   --hr: hsla(0, 0%, 100%, 0.2);
   --inlineCode-bg: rgba(115, 124, 153, 0.2);
