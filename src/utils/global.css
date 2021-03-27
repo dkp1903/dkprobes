@@ -10,7 +10,7 @@ body.light {
   --bg: #ffffff;
   --bg-secondary: rgb(249, 250, 251);
   --header: var(--blue);
-  --textNormal: rgb(74, 74, 74);
+  --textNormal: #212324;
   --textTitle: #222;
   --textLink: #000080;
   --hr: hsla(0, 0%, 0%, 0.2);
