@@ -7,9 +7,9 @@ body {
 }
 
 body.light {
-  --bg: #dde0e3;
+  --bg: #eee;
   --bg-secondary: rgb(249, 250, 251);
-  --header: var(--blue);
+  --header: #000080;
   --textNormal: #212324;
   --textTitle: #222;
   --textLink: #000080;
