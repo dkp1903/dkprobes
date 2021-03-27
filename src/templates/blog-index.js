@@ -31,7 +31,7 @@ class BlogIndexTemplate extends React.Component {
         I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
 
 <a href="https://dkprobes.tech/Data-Structures">
-<h3 style={{color: "#FF8A00"}}> Data Structures and Algorithms </h3></a> 
+<h3 style={{color: "#6875f5", padding: "5px"}}> Data Structures and Algorithms </h3></a> 
 DSA is without a doubt, an extremely crucial skill for technical interviews, and 
 being a Software Engineer myself, I have given my share of DSA interviews. 
 Have failed in many, succeeded in some, learnt a lot through all of them. 
@@ -41,7 +41,7 @@ space complexities explained.
 <iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 <a href="https://dkprobes.tech/Tech">
-<h3 style={{size: '30dp', color: "#FF8A00"}} >Tech</h3></a> 
+<h3 style={{size: '30dp', color: "#6875f5"}} >Tech</h3></a> 
 
 Tech is best learnt when it's explained so that it's hands on, retention-first and focused - and that's what I bring to you. 
 I have been developing full stack applications in Javascript, Python and related technologies 
@@ -50,12 +50,12 @@ for more than 3 years now, and regularly learn new technologies, and architectur
 <iframe src="https://dkprobescode.substack.com/embed" style={{background:'#000', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 <a href="https://dkprobes.tech/productivity">
-<h3 style={{size: '30dp', color: "#FF8A00"}} >Productivity</h3></a> 
+<h3 style={{size: '30dp', color: "#6875f5"}} >Productivity</h3></a> 
 
 I routinely experiment with different productivity tools and techniques and write about the experiences, so if that interests you, check this out!
 
 <a href="https://dkprobes.tech/Markets">
-<h3 style={{color: "#FF8A00"}}> Markets </h3></a> 
+<h3 style={{color: "#6875f5"}}> Markets </h3></a> 
 I analyze markets and business strategy in depth, and bring to you, some of 
 the hottest stories in the market, from complete case studies of WeWork, Uber to 
 analyses of stocks, and corporate concepts.
@@ -67,7 +67,7 @@ If you want my posts to reach you via mail, subscribe to my Markets and Affairs 
 
 
 <a href="https://dkprobes.tech/foreign">
-<h3 style={{color: "#FF8A00"}}> International Affairs </h3></a> 
+<h3 style={{color: "#6875f5"}}> International Affairs </h3></a> 
 
 I am politically informed, and I enjoy researching into international affairs and countries' histories - talk, the Afghan war, the US plans for the Middle East, and other exciting stuff, and I try to write about it
 with a bit of analysis, without making it drawn out like the history books. 
@@ -109,7 +109,7 @@ And most of all, I am always thinking on making things better - more interesting
                     {formatPostDate(node.frontmatter.date, langKey)}
                     {` • ${formatReadingTime(node.timeToRead)}`}
                   </small><br />
-          <button style={{backgroundColor: '#FF8A00', color: '#000000', radius: '5px'}}>Category: {node.frontmatter.tags}</button>
+          <button style={{backgroundColor: '#6875f5', color: '#000000', radius: '5px'}}>Category: {node.frontmatter.tags}</button>
                 </header>
                 <p
                   dangerouslySetInnerHTML={{ __html: node.frontmatter.spoiler }}
