@@ -6,4 +6,8 @@ tags: ["tech"]
 
 ---
 
-[First step to AyncJS](./asyncjs-1)
+[First step to AyncJS](./Tech/asyncjs-1)
+
+[Client Side Rendering vs Server Side Rendering](./Tech/csr-ssr)
+
+[Review notes on the session on Introduction to Git and Github](./Tech/git-1)
