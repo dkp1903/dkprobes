@@ -31,8 +31,8 @@ class BlogIndexTemplate extends React.Component {
         I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
 
 <a href="https://dkprobes.tech/Data-Structures">
-<h3 style={{color: "#6875f5", padding: "40px"}}> Data Structures and Algorithms </h3></a> 
-<p style={{padding: "40px"}}>
+<h3 style={{color: "#6875f5", padding: "0px 40px"}}> Data Structures and Algorithms </h3></a> 
+<p style={{padding: "0px 40px"}}>
 DSA is without a doubt, an extremely crucial skill for technical interviews, and 
 being a Software Engineer myself, I have given my share of DSA interviews. 
 Have failed in many, succeeded in some, learnt a lot through all of them. 
