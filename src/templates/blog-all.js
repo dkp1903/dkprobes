@@ -29,8 +29,7 @@ class BlogIndexTemplate extends React.Component {
                 boxShadow: 'none',
                 textDecoration: 'none',
                 color: '#faed27',
-                style: 'underlined',
-                fontFamily: 'Poppins'
+                style: 'underlined'
               }}
               to={'/home'}
             >
@@ -46,7 +45,7 @@ class BlogIndexTemplate extends React.Component {
                 <header>
                   <h3
                     style={{
-                      fontFamily: 'Poppins, sans-serif',
+                      fontFamily: 'Montserrat, sans-serif',
                       fontSize: rhythm(1),
                       marginBottom: rhythm(1 / 4),
                     }}

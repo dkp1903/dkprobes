@@ -3,6 +3,7 @@
 body {
   --blue: #17b7e7;
   background-color: var(--bg);
+  font-family: 'Poppins', sans-serif;
 }
 
 body.light {
