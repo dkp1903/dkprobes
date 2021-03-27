@@ -19,8 +19,9 @@ description: Agile is one of the most underrated methodologies for students.
 ### Arrays
 [Kadane's algorithm Part 2](./Data-Structures/kadane-2)
 
-
 [Kadane's algorithm](./Data-Structures/kadane)
+
+[Number of elements in distinct window of size k](./Data-Structures/distinct-window)
 
 [The minimum Max Difference](./Data-Structures/min-max-diff)
 
@@ -33,6 +34,16 @@ description: Agile is one of the most underrated methodologies for students.
 
 
 [Merge Sort](./Data-Structures/merge-sort)
+
+### Stack
+
+[Parentheses Check](./Data-Structures/paren-check)
+
+[Next Greater Element in an array](./Data-Structures/next-greater-element)
+
+[Infix-Prefix-Postfix-Part 1](./Data-Structures/fixing)
+
+[Infix-Prefix-Postfix-Part 2](./Data-Structures/fix-2)
 
 
 <iframe src="https://dkprobescode.substack.com/embed" width="80" height="30" style=" background:#000; color:#29ff14; border-radius: 19px;" frameborder="0" scrolling="no"></iframe>
