@@ -22,7 +22,7 @@ body.light {
 body.dark {
   -webkit-font-smoothing: antialiased;
 
-  --bg: #4a4a4a;
+  --bg: #212324;
   --bg-secondary: rgb(54, 60, 72);
   --header: #ffffff;
   --textNormal: #dde0e3;
