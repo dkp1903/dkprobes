@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 body {
   --blue: #17b7e7;
   background-color: var(--bg);
@@ -93,7 +95,7 @@ code[class*='language-'],
 pre[class*='language-'] {
   color: white;
   background: none;
-  font-family: monospace, Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
+  font-family: 'Poppins', Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
   font-feature-settings: normal;
   text-align: left;
   white-space: pre;
