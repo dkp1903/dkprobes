@@ -19,7 +19,7 @@ import {
 
 const GITHUB_USERNAME = 'dkp1903';
 const GITHUB_REPO_NAME = 'blogo';
-const systemFont = `"Roboto", monospace, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+const systemFont = `"Poppins", monospace, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
 
