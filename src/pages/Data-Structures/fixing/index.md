@@ -6,15 +6,13 @@ tags: ["dsa"]
 
 ---
 
-![](./j.jpg)
 
-In the [last probe](https://dkprobes.tech/Data-Structures/paren-check), we did a quick deep dive into our array with an attitude, aka stack, and solved a standard problem on it. Today, we test our understanding of stack a little more, talking about another standard problem : 
+In the [last probe](./Data-Structures/paren-check), we did a quick deep dive into our array with an attitude, aka stack, and solved a standard problem on it. Today, we test our understanding of stack a little more, talking about another standard problem : 
 
 > Convert an infix operation to postfix
 
 Step 1 : 
 
-![](./h.jpg)
 
 Remember the good old days, when math was the toughest thing that could go wrong? You might remember something like, evaluate : (A + B)*(C-D). That’s, normal, no? You have two numbers, and an expression in between. You perform the expression on the two numbers, aka operands.
 
@@ -52,7 +50,6 @@ So, while going through the infix expression, if we encounter numbers(operands),
 
 We then have to set the precedence of operators, meaning, power would be evaluated first, then multi/div, then add/sub(BODMAS rule).
 
-![](./m.jpg)
 
 Now, the final question : What do we do with the brackets and the operator order? 
 
@@ -141,7 +138,6 @@ string infixToPostfix(string s)
 
 } 
 ```
-![](./hell.jpg)
 
 The prec function is no impossibility to gobble : It just sets the precedence. Also, if we have an operand, we just push it into our final answer.
 
