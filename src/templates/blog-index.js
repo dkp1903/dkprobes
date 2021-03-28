@@ -77,49 +77,13 @@ I routinely experiment with different productivity tools and techniques and writ
 <p style={{padding: "5px 40px"}}>
 I analyze markets and business strategy in depth, and bring to you, some of 
 the hottest stories in the market, from complete case studies of WeWork, Uber to 
-analyses of stocks, and corporate concepts.
+analyses of stocks, and corporate concepts, my personal internship experiences, events of international importance and more!
 You can find all my posts on markets <Link to="/Markets">here</Link>
 </p>
 
 </p>
 
 
-
-
-          {/* {posts
-          
-          .map(({ node }) => {
-            const title = get(node, 'frontmatter.title') || node.fields.slug;
-            return (
-              <article key={node.fields.slug}>
-                <header>
-                  <h3
-                    style={{
-                      fontFamily: 'Montserrat, sans-serif',
-                      fontSize: rhythm(1),
-                      marginBottom: rhythm(1 / 4),
-                    }}
-                  >
-                    <Link
-                      style={{ boxShadow: 'none' }}
-                      to={node.fields.slug}
-                      rel="bookmark"
-                    >
-                      {title}
-                    </Link>
-                  </h3>
-                  <small>
-                    {formatPostDate(node.frontmatter.date, langKey)}
-                    {` • ${formatReadingTime(node.timeToRead)}`}
-                  </small><br />
-          <button style={{backgroundColor: '#6875f5', color: '#000000', radius: '5px'}}>Category: {node.frontmatter.tags}</button>
-                </header>
-                <p
-                  dangerouslySetInnerHTML={{ __html: node.frontmatter.spoiler }}
-                />
-              </article>
-            );
-          })} */}
         </main>
         <Footer />
       </Layout>
