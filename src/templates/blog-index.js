@@ -40,7 +40,7 @@ Data structures and Algorithms. Having been through more than 15 interviews for 
 quite some experience in figuring out the major points that drive interviews, and what the right approach to learn would be.
 
 In my DSA probes, I follow a seven step approach : 
-<ol>
+<ol style={{ padding: "5px 40px"}}>
 <li>Pick up a problem statement - usually from Codeforces/GeeksforGeeks/Leetcode or similar platforms</li>
 <li>Analyze the requirements, edge cases and expected approach in depth</li>
 <li>Explain my thought process step by step as if it were an actual interview</li>
@@ -50,15 +50,18 @@ In my DSA probes, I follow a seven step approach :
 <li>List out the companies where this problem had been asked, links to the GeeksforGeeks/Leetcode versions of the problem.</li>
 </ol>
 </p>
-
+<u>
 <a href="https://dkprobes.tech/Tech">
 <h3 style={{size: '30dp', padding: "5px 40px", color: "#6875f5"}} >Software Development</h3></a> 
+</u>
 <p style={{padding: "0px 40px"}}>
 Tech is best learnt when it's explained so that it's hands on, retention-first and focused - and that's what I bring to you. 
 I have been developing full stack applications in Javascript, Python and related technologies 
 for more than 3 years now, and regularly learn new technologies, and architectures, and write about the same, so if that interests you, do check this out. 
+<br /><br />
 
-Subscribe to my Tech and Markets newsletter
+I also periodically send out a newsletter with my latest articles, so if you want to stay updated, consider subscribing. It' free!
+
 <iframe src="https://dkprobescode.substack.com/embed" style={{background:'#212324', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 </p>
