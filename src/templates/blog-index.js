@@ -30,15 +30,25 @@ class BlogIndexTemplate extends React.Component {
         <br /> <br />
         I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
 <h2 style={{color: "#6875f5"}}>Tech</h2>
+<u>
 <a href="https://dkprobes.tech/Data-Structures">
 <h3 style={{color: "#6875f5", padding: "5px 40px"}}> Data Structures and Algorithms </h3></a> 
+</u>
 <p style={{padding: "0px 40px"}}>
-DSA is without a doubt, an extremely crucial skill for technical interviews, and 
-being a Software Engineer myself, I have given my share of DSA interviews. 
-Have failed in many, succeeded in some, learnt a lot through all of them. 
-Here, too, I explain standard problems, by outlining the entire thinking process behind 
-the problem, starting from a brute force solution, to optimize it step by step, with time and 
-space complexities explained.
+The world runs on problem solvers, and software companies around the world are yet to find a better metric to test problem solving skills, than the much loved and equally dreaded 
+Data structures and Algorithms. Having been through more than 15 interviews for startups like Crio.Do, Oye Rickshaw, big tech like Amazon and non tech firms like Deutsche Bank, I have gained 
+quite some experience in figuring out the major points that drive interviews, and what the right approach to learn would be.
+
+In my DSA probes, I follow a seven step approach : 
+<ol>
+<li>Pick up a problem statement - usually from Codeforces/GeeksforGeeks/Leetcode or similar platforms</li>
+<li>Analyze the requirements, edge cases and expected approach in depth</li>
+<li>Explain my thought process step by step as if it were an actual interview</li>
+<li>Start with a brute force solution. Explain why it's not the best solution</li>
+<li>Improve upon the solution iteratively to reach the best case scenario</li>
+<li>Give the code for the solution in C++(I intend to add Java/Python/Javascript language support later, with support of the community)</li>
+<li>List out the companies where this problem had been asked, links to the GeeksforGeeks/Leetcode versions of the problem.</li>
+</ol>
 </p>
 
 <a href="https://dkprobes.tech/Tech">
