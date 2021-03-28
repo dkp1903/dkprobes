@@ -50,7 +50,7 @@ In my DSA probes, I follow a seven step approach :
 <li>List out the companies where this problem had been asked, links to the GeeksforGeeks/Leetcode versions of the problem.</li>
 </ol>
 </p>
-<u style={{padding: "5px"}}>
+<u style={{margin: "5px"}}>
 <a href="https://dkprobes.tech/Tech">
 <h3 style={{size: '30dp', padding: "5px 40px", color: "#6875f5"}} >Software Development</h3></a> 
 </u>
