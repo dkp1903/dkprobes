@@ -50,10 +50,10 @@ In my DSA probes, I follow a seven step approach :
 <li>List out the companies where this problem had been asked, links to the GeeksforGeeks/Leetcode versions of the problem.</li>
 </ol>
 </p>
-<u>
+
 <a href="https://dkprobes.tech/Tech">
-<h3 style={{size: '30dp', padding: "5px 40px", color: "#6875f5"}} >Software Development</h3></a> 
-</u>
+<h3 style={{size: '30dp', padding: "5px 40px", color: "#6875f5", borderBottom: "2px solid blue"}} >Software Development</h3></a> 
+
 <p style={{padding: "0px 40px"}}>
 Tech is best learnt when it's explained so that it's hands on, retention-first and focused - and that's what I bring to you. 
 I have been developing full stack applications in Javascript, Python and related technologies 
