@@ -77,4 +77,13 @@ As you can see, there's practically just one line in here which is a game change
 ```
 This is what sets off the reaction that would make React run the Javascript to populate the data. But while that JS is running, 
 
-there's nothing else to show.
+there's nothing else to show, that's why the blank page, while the JS runs to load the content.
+
+Now, each of these methods has their own set of advantages and cons: 
+
+In case of SSR, the user is able to start seeing the content much faster - aka faster initial load. But now, the problem is, if you were to navigate to another route, such as /about, /education, each time, the new content has to be populated 
+at the server, meaning that each time you wish to visit a new route, a request is sent to the server, the page is populated there, and the entire heavy HTML laden page is sent to the client. And every time, the JS is run to add interactivity.
+
+And this isn't a great thing, given the large amount of data transfer, which can slow down the process.
+
+-- This article is in progress -- 
