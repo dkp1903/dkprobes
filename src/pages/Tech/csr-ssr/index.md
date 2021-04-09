@@ -1,38 +1,80 @@
 Client Side vs Server Side rendering
 
-This is a hot topic for technical interviews, and when you're a business trying to optimize your user experience and SEO.
+> Note : The SSR being talked about here is the SSR of the olden days, much before NextJS had taken the world by storm.
+Discussion on NextJS is to be done in a coming probe.
+
+This is a hot topic for technical interviews, and when 
+you're a business trying to optimize your user experience and SEO.
 
 The difference, as the name suggests, is in where the content gets 'rendered'.
 
-Modern day webpages are a combination of HTML, CSS, JavaScript. We all know that. But there's small difference in how the HTML is rendered. 
+In the olden days(aka, early 2010s), content used to be rendered on the browser, and a populated HTML file was sent to the client. This file was all look-goody, but had little to offer in interactivity, since
+interactivity is brought by Javascript and that can only run on the client.
 
-Most webpage content comes from network requests made from JavaScript, either native JS, or using frameworks/libraries like React, which uses ReactDOM.render(), to render stuff to the screen.
+This is Server side Rendering, where a pre-populated HTML layout page is sent 
+to the client, and interactivity is added later. 
+What this translates to, is that a user is able to view 
+the page much before she/he is able to interact with it.
 
-To think about this, remember when you started youtube with a shitty internet? There's a layout, a lot of blank boxes and figures appearing, before the actual videos and other clickables come up? 
+That can be advantageous in the sense that the user doesn't spend precious seconds staring at a blank white page.
 
-That's what it is - the HTML is populated in the browser, through the JavaScript. That, is client side rendering - rendering in the client, aka the browser.
+On the other hand, in Client Side Rendering, all the server sends at first, is a blank index.html file. Which file is this? If you'd have worked with React, you'd have seen an index.html file when you scaffold a Create-React-App application.
 
-And what about server side rendering? As it suggests, the server sends you an HTML page populated with everything. This means, that you wouldn't see the layout of the YouTube, ever, if the site were exclusively server side rendered.
+This index.html file looks something like this : 
 
-What are the potential benefits and pitfalls of each?
+```
+  
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Expenso</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root" ></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
 
-In case of SSR, the server sends an HTML page, populated. This is good, but think about when you click a link that'd need an additional resource. You go all the way back to the server, wait for it to make the new HTML, then send it. 
+```
 
-Duhh.
+This is the index.html file that gets sent by the server initially.
 
-In case of CSR, the server doesn't create the HTML page - it just sends in a layout(the boxes and figures), and the JS library/framework would then run to populate the page. That would make it slower than SSR, but if you were to redirect to another page, it wouldn't have to go all the way back to the server, since it's handled by the JS, right in the client.
+As you can see, there's practically just one line in here which is a game changer : 
 
-Thus, to cap it all, the difference is between when and where the HTML is created : if it's on the server, it's SSR, and if it's in the browser with the help of a library like React, it's CSR.
+```
+<div id="root" ></div>
+```
+This is what sets off the reaction that would make React run the Javascript to populate the data. But while that JS is running, 
 
-Here are some advantages of SSR : 
-	- SSR is usually thought to be better for Search Engine Optimization, since the crawlers can crawl the actual HTML content, since that's already made server side.
-	- The initial page load is faster - as discussed above, the browser doesn't have to do any work, making it decidedly faster.
-	- Great for static sites - no brainer there, since the whole point of making things CSR was for more efficient interactivity.
-
-Here are the pros of CSR : 
-	- Reduced frequency of server requests, leading to an overall fast rendering - although the first load takes time, the subsequent loads are faster, making it faster for sites having multiple pages
-	- Rich site interactions - the exact counter of point 3 in the pros of SSR above. With JS being run in the browser, gives us interactivity and viewability at the same time.
-
-That was it, for SSR and CSR. Well, almost it. But we developers are always looking to make things better, and that means, looking for a way to get the best of both worlds - aka, the speed of the first load as given by SSR, and the speed of subsequent loads via CSR. 
-
-Can that work? Find out in my next probe
+there's nothing else to show.
