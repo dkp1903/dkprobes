@@ -18,9 +18,9 @@ the page much before she/he is able to interact with it.
 
 That can be advantageous in the sense that the user doesn't spend precious seconds staring at a blank white page.
 
-On the other hand, in Client Side Rendering, all the server sends at first, is a blank index.html file. Which file is this? If you'd have worked with React, you'd have seen an index.html file when you scaffold a Create-React-App application.
+On the other hand, in Client Side Rendering, all the server sends at first, is a blank `index.html` file. Which file is this? If you'd have worked with React, you'd have seen an `index.html` file when you scaffold a Create-React-App application.
 
-This index.html file looks something like this : 
+This `index.html` file looks something like this : 
 
 ```
   
@@ -31,44 +31,26 @@ This index.html file looks something like this :
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
       content="Web site created using create-react-app"
     />
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
+   
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>Expenso</title>
+    
+    <title>Your site title</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root" ></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+   
   </body>
 
 ```
 
-This is the index.html file that gets sent by the server initially.
+This is the `index.html` file that gets sent by the server initially.
 
 As you can see, there's practically just one line in here which is a game changer : 
 
@@ -81,9 +63,22 @@ there's nothing else to show, that's why the blank page, while the JS runs to lo
 
 Now, each of these methods has their own set of advantages and cons: 
 
-In case of SSR, the user is able to start seeing the content much faster - aka faster initial load. But now, the problem is, if you were to navigate to another route, such as /about, /education, each time, the new content has to be populated 
-at the server, meaning that each time you wish to visit a new route, a request is sent to the server, the page is populated there, and the entire heavy HTML laden page is sent to the client. And every time, the JS is run to add interactivity.
+In case of SSR, the user is able to start seeing the content much faster - 
+aka faster initial load. But now, the problem is, if you were to navigate to 
+another route, such as /about, /education, each time, the new content has to be populated 
+at the server, meaning that each time you wish to visit a new route, a request 
+is sent to the server, the page is populated there, and the entire heavy HTML laden 
+page is sent to the client. And every time, the JS is run to add interactivity.
 
 And this isn't a great thing, given the large amount of data transfer, which can slow down the process.
 
--- This article is in progress -- 
+Another good thing about SSR is search indexing. Since the content is already populated on the server, search engine crawlers 
+are able to crawl the content, and thus, such websites gain a better footing in search results. 
+
+In case of CSR, the first load will be slower, since the content will be populated only after all JS files have been downloaded and run on the client.
+However, there are no additional requests made to the server. Only the `index.html` file keeps getting repopulated when the 
+user navigates to different routes. Thus, all subsequent loads are much faster.
+
+CSR isn't well suited for SEO. Search engine crawlers will see a blank page only on the server, which they crawl, and thus, aren't able to index the site based on the content it will carry when the JS is run.
+
+Can we get the best of both worlds? Wait for my next probe to find out.
