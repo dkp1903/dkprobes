@@ -11,3 +11,9 @@ tags: ["tech"]
 [Client Side Rendering vs Server Side Rendering](./Tech/csr-ssr)
 
 [Review notes on the session on Introduction to Git and Github](./Tech/git-1)
+
+[Laws of User Experience(UX)](./Tech/ux-laws)
+
+[IIFEs](./Tech/iife)
+
+[Compiled vs Interpreted languages](./Tech/compile-v-interpret)

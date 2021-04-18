@@ -2,7 +2,7 @@
 title: Immediately Invoked Function Expressions
 date: "2021-02-18T22:40:32.169Z"
 description: IIFEs in Javascript - what they are and why they're useful
-tags: ["dsa"]
+tags: ["tech"]
 
 ---
 
@@ -36,7 +36,3 @@ Two things are different here -
 2. The calling parens are added immediately after the function definition, rather than calling it separately.
 
 And that's essentially what IIFEs are - they allow the function to be called immediately after it's defined.
-
-Now that we know what, let's try to figure out why.
-
-Functions run in an execution context - an environment that is created when the function starts running, and gets cleared once the function returns.
