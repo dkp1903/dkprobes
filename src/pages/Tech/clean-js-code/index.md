@@ -169,4 +169,6 @@ const checkLoading = () => {}
 
 `bool isLoggedIn` and not `bool logIn`
 
-10. 
+10. Functions should be verbs, preferably
+
+`const checkStatus = () => {}` and not `const status = () => {}`
