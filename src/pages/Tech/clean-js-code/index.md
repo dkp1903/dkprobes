@@ -119,3 +119,54 @@ const updateUIBasedOnStatus = ( users ) => {
 }
 
 ```
+
+6. Avoid Boolean flags as parameters
+
+Instead, create two different functions to handle each of the true/false cases. This is done to adhere to the previously mentioned
+Single responsibility principle.
+
+7. Encapsulate conditionals
+
+Don't
+
+```
+if(status === 'loading') {
+    // Do something
+
+}
+```
+
+Do
+
+```
+const checkStatus(status) {
+    return status === 'loading'
+}
+
+if (checkStatus(status)) {
+    // Do something 
+}
+
+```
+
+8. Avoid contractions when naming variables/functions
+
+Don't
+```
+const curTi = 'black'
+const a = () => {}
+```
+
+Do
+
+```
+const currentTitle = 'black'
+const checkLoading = () => {}
+
+```
+
+9. Use a prefix when naming boolean variables
+
+`bool isLoggedIn` and not `bool logIn`
+
+10. 
