@@ -17,3 +17,5 @@ tags: ["tech"]
 [IIFEs](./Tech/iife)
 
 [Compiled vs Interpreted languages](./Tech/compile-v-interpret)
+
+[Clean JS code](./Tech/clean-js-code)
