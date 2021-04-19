@@ -6,7 +6,7 @@ tags: ["tech"]
 
 ---
 
-[First step to AyncJS](./Tech/asyncjs-1)
+[First step to AyncJS](https://dkprobes.tech/Tech/asyncjs-1)
 
 [Client Side Rendering vs Server Side Rendering](./Tech/csr-ssr)
 
