@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'DKProbes',
     author: 'DKP',
-    description: 'I write tech and markets.',
-    siteUrl: 'https://dkprobes.tech/home',
+    description: 'Full stack development, DSA and more .',
+    siteUrl: 'https://dkprobes.tech',
     social: {
       twitter: '@dkp1903',
     },
