@@ -6,16 +6,18 @@ tags: ["tech"]
 
 ---
 
-[First step to AyncJS](https://dkprobes.tech/Tech/asyncjs-1)
+[First step to AyncJS](./asyncjs-1)
 
-[Client Side Rendering vs Server Side Rendering](./Tech/csr-ssr)
+[Client Side Rendering vs Server Side Rendering](./csr-ssr)
 
-[Review notes on the session on Introduction to Git and Github](./Tech/git-1)
+[Review notes on the session on Introduction to Git and Github](./git-1)
 
-[Laws of User Experience(UX)](./Tech/ux-laws)
+[Laws of User Experience(UX)](./ux-laws)
 
-[IIFEs](./Tech/iife)
+[IIFEs](./iife)
 
-[Compiled vs Interpreted languages](./Tech/compile-v-interpret)
+[Compiled vs Interpreted languages](./compile-v-interpret)
 
-[Clean JS code](./Tech/clean-js-code)
+[Clean JS code](./clean-js-code)
+
+[Intro to Redux](./intro-redux)
