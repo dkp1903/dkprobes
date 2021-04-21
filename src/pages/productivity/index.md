@@ -12,4 +12,4 @@ Being a punch drunk productivity buff, I spend
 
 [My productivity journey - Part 1](./my-productivity-journey)
 
-[If you have come across that LinkedIn overachiever post, read this](./productivity/beyond-cp)
+[If you have come across that LinkedIn overachiever post, read this](./beyond-cp)
