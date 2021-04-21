@@ -52,4 +52,10 @@ A parent-child relationship is a necessity for us to share state. It's only a pa
 
 Thus, to share components between siblings, you'd need to have a common parent, transfer the state to the parent, and have the parent share the state to the siblings.
 
-And this, when the Parent itself has no use case 
+And this, when the Parent itself has no use for the state being shared.
+
+Not exactly the best solution is it?
+
+And that's not the worst part. What if you need to share the state with a cousin component, one that doesn't have the present ParentComponent as the parent? You need to move that state further up.
+
+![Passing state via parents(Image credits: Codevolution)](./redux.png)
