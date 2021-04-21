@@ -10,6 +10,6 @@ Being a punch drunk productivity buff, I spend
  half my day exploring a variety of tools and techniques 
  to try and boost productivity, and I love to talk about it
 
-[My productivity journey - Part 1](./my-productivity-journey)
+[My productivity journey - Part 1](./productivity/my-productivity-journey)
 
-[If you have come across that LinkedIn overachiever post, read this](./beyond-cp)
+[If you have come across that LinkedIn overachiever post, read this](./productivity/beyond-cp)
