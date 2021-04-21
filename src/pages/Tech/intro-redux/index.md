@@ -58,4 +58,21 @@ Not exactly the best solution is it?
 
 And that's not the worst part. What if you need to share the state with a cousin component, one that doesn't have the present ParentComponent as the parent? You need to move that state further up.
 
+
 ![Passing state via parents(Image credits: Codevolution)](./redux.png)
+
+Consider the above image. If you were to share state between A and G, the only way you could do it, is to store all of A's state in the App component, pass it level by level to both A and G, even though all components apart from these two
+had nothing to do with the state.
+
+Far from the best solution.
+
+4. Where does Redux fit in?
+
+Redux holds a single source of truth, called the Redux store, which holds all the state for the application, and is able to pass it to the components that need it.
+This removes the major drawback of having to pass along state via props.
+
+Exactly how that happens, we'll discuss in a coming probe.
+
+5.  Redux is not specific to React - as said before, Redux is a state management library for Javascript apps, and can work equally well with React, Angular, Vue, or even Vanilla JS apps. 
+Since Angular has inbuilt state management, and Vue has a dedicated library called VueX, Redux isn't just that frequent with these.
+
