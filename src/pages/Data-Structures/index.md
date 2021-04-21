@@ -6,8 +6,6 @@ description: Agile is one of the most underrated methodologies for students.
 
 ### Codeforces question approaches(past contests)
 
-[Brackets](./Data-Structures/codeforces-brackets)
-
 [Substring](./Data-Structures/codeforces-substring)
 
 [Toy Blocks](./Data-Structures/codeforces-toy-blocks)
