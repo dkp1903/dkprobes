@@ -4,9 +4,9 @@ DKProbes is where I write about Full Stack Development Tutorials, solution appro
 
 I occasionally send out a newsletter with links to my articles.
 
-Tech Stack used for the blog : Gatsby(A react framework for making static websites - includes React, GraphQL and a ton of other stuff), Netlify
+Tech Stack used for the blog : Gatsby(A react framework for making static websites - includes React and GraphQL), Netlify
 
-Blog architecture inspired from my God [Dan Abromov's blog](https://overreacted.io)
+Blog architecture inspired from [Dan Abramov's blog](https://overreacted.io)
 
 
 Cmon now, a blog's readme is the last place you wanna read - head over to my [blog](https://dkprobes.tech) now

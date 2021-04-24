@@ -1,3 +1,10 @@
+---
+title: Clean JS Code
+date: "2021-04-15T22:40:32.169Z"
+description: Clean JS Code
+tags: ["tech"]
+
+---
 
 
 1. Avoid magic numbers.

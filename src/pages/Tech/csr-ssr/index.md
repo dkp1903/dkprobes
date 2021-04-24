@@ -1,4 +1,10 @@
-Client Side vs Server Side rendering
+---
+title: Client side rendering vs Server side rendering
+date: "2020-04-10T22:40:32.169Z"
+description: What they are, their pros and cons, and what to use when
+tags: ["tech"]
+
+---
 
 > Note : The SSR being talked about here is the SSR of the olden days, much before NextJS had taken the world by storm.
 Discussion on NextJS is to be done in a coming probe.
