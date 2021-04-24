@@ -21,3 +21,5 @@ tags: ["tech"]
 [Clean JS code](./clean-js-code)
 
 [Intro to Redux](./intro-redux)
+
+[Lessons learnt](./lessons)
