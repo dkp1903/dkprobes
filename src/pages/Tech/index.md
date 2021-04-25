@@ -6,7 +6,7 @@ tags: ["tech"]
 
 ---
 
-[First step to AyncJS](./asyncjs-1)
+[First step to AyncJS](/Tech/asyncjs-1)
 
 [Client Side Rendering vs Server Side Rendering](./Tech/csr-ssr)
 
