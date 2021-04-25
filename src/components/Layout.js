@@ -45,6 +45,7 @@ class Layout extends React.Component {
       );
     } else {
       return (
+          
         <h3
           style={{
             fontFamily: 'Montserrat, sans-serif',
@@ -66,6 +67,8 @@ class Layout extends React.Component {
           </Link>
           
         </h3>
+
+       
       );
     }
   }
@@ -139,7 +142,9 @@ class Layout extends React.Component {
             ) : (
               <div style={{ height: '24px' }} />
             )}
+
           </header>
+
           {children}
         </div>
       </div>

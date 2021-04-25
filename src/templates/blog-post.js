@@ -31,52 +31,7 @@ class Translations extends React.Component {
     let hasRussianTranslation = translations.indexOf('ru') !== -1;
 
     return (<div></div>
-      // <div className="translations">
-      //   <Panel style={{ fontFamily: systemFont }}>
-      //     {translations.length > 0 && (
-      //       <span>
-      //         {hasRussianTranslation && (
-      //           <span>
-      //             Originally written in:{' '}
-      //             {'en' === lang ? (
-      //               <b>{codeToLanguage('en')}</b>
-      //             ) : (
-      //               <Link to={languageLink('en')}>English</Link>
-      //             )}
-      //             {' • '}
-      //             {'ru' === lang ? (
-      //               <b>Русский (авторский перевод)</b>
-      //             ) : (
-      //               <Link to={languageLink('ru')}>
-      //                 Русский (авторский перевод)
-      //               </Link>
-      //             )}
-      //             <br />
-      //             <br />
-      //           </span>
-      //         )}
-              
-      //       </span>
-      //     )}
-      //     {lang !== 'en' && (
-      //       <>
-      //         <br />
-      //         <br />
-      //         {lang !== 'ru' && (
-      //           <>
-      //             <Link to={languageLink('en')}>Read the original</Link>
-      //             {' • '}
-      //             <a href={editUrl} target="_blank" rel="noopener noreferrer">
-      //               Improve this translation
-      //             </a>
-      //             {' • '}
-      //           </>
-      //         )}
-      //         <Link to={`/${lang}`}>View all translated posts</Link>{' '}
-      //       </>
-      //     )}
-      //   </Panel>
-      // </div>
+      
     );
   }
 }
@@ -141,6 +96,34 @@ class BlogPostTemplate extends React.Component {
         <main>
           <article>
             <header>
+                <nav
+                style={{
+                    display: 'flex',
+                    justifyContent: 'center',
+                    alignItems: 'center',
+                    minHeight: '10vh',
+
+                }}
+            >
+                <ul
+                    style={{
+                        width: '80%',
+                        display: 'flex',
+                        justifyContent: 'space-around',
+                        alignItems: 'center',
+                        listStyle: 'none',
+                        marginLeft: '10%'
+                    }}
+                >
+                    <li>
+                    <Link to="/">Home</Link></li>
+                    <li>
+                    <Link to="/Tech">Software Development</Link></li>
+                    <li><Link to="/Data-Structures">DSA</Link></li>
+                    <li><Link to="/Markets">Markets</Link></li>
+                    <li><Link to="/productivity">Productivity</Link></li>
+                </ul>
+            </nav>
               <h1 style={{ color: 'var(--textTitle)' }}>
                 {post.frontmatter.title}
               </h1>

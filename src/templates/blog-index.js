@@ -24,6 +24,32 @@ class BlogIndexTemplate extends React.Component {
           <Bio />
         </aside>
         <main>
+                        <nav
+                style={{
+                    display: 'flex',
+                    justifyContent: 'center',
+                    alignItems: 'center',
+                    minHeight: '10vh',
+
+                }}
+            >
+                <ul
+                    style={{
+                        width: '80%',
+                        display: 'flex',
+                        justifyContent: 'space-around',
+                        alignItems: 'center',
+                        listStyle: 'none',
+                        marginLeft: '10%'
+                    }}
+                >
+                    <li>
+                    <Link to="/Tech">Sofware Development</Link></li>
+                    <li><Link to="/Data-Structures">DSA</Link></li>
+                    <li><Link to="/Markets">Markets</Link></li>
+                    <li><Link to="/productivity">Productivity</Link></li>
+                </ul>
+            </nav>
       <p>
         Welcome to DKProbes. I am Dushyant(I prefer being called DKP, because it's so much easier to pronounce), a Software Engineer by profession. I write regularly about <a href="https://dkprobes.tech/Tech">Full Stack Development</a>, <a href="https://dkprobes.tech/Data-Structures">Data Structures and Algorithms</a> and <a href="https://dkprobes.tech/productivity">Productivity</a>, and more occasionally, about
          Markets, Foreign Affairs and my experiences working with the companies I have interned with.
