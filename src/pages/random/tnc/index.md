@@ -6,3 +6,5 @@ tags: ["random"]
 
 ---
 
+All content of this blog has been derived from various free and open sources. I have done my best to add due credits wherever 
+I found need, and should I be 
