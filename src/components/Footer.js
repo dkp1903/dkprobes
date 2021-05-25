@@ -12,7 +12,7 @@ class Footer extends React.Component {
         }}
       >
         <div style={{ float: 'right' }}>
-          <a href="https://dkp.today" target="_blank" rel="noopener noreferrer">
+          <a style={{marginRight: '5px'}}href="https://dkp.today" target="_blank" rel="noopener noreferrer">
             My Website
           </a>
           <a href="https://dkprobes.tech/privacy-policy" target="_blank" rel="noopener noreferrer">
