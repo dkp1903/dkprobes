@@ -15,6 +15,9 @@ class Footer extends React.Component {
           <a href="https://dkp.today" target="_blank" rel="noopener noreferrer">
             My Website
           </a>
+          <a href="https://dkprobes.tech/privacy-policy" target="_blank" rel="noopener noreferrer">
+            Privacy Policy
+          </a>
         </div>
         <a
           href="https://twitter.com/dkp1903"
