@@ -49,6 +49,17 @@ export default class HTML extends React.Component {
             `,
             }}
           />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB26GTPT8H"></script>
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-DB26GTPT8H');
+              `,
+            }}
+          />
           {this.props.preBodyComponents}
           <div
             key={`body`}
