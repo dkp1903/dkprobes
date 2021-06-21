@@ -2,11 +2,6 @@
 
 DKProbes is where I write about Full Stack Development Tutorials, solution approaches to common Data Structures and Algorithms problems, random thoughts like markets, finance, productivity and interview experiences
 
-I occasionally send out a newsletter with links to my articles.
+This blog will soon be made open to external contributions.
 
-Tech Stack used for the blog : Gatsby(A react framework for making static websites - includes React and GraphQL), Netlify
-
-Blog architecture inspired from [Dan Abramov's blog](https://overreacted.io)
-
-
-Cmon now, a blog's readme is the last place you wanna read - head over to my [blog](https://dkprobes.tech) now
+Please keep checking for details
