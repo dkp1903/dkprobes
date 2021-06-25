@@ -73,16 +73,51 @@ You need to make sure that your entire application works in a good flow. You hav
 
 7. Regular commits
 
-We usually develop our projects on our local system, and once we're done, we push it to Github, to ensure that we can put up the links in our resume.
+We usually develop our projects on our local system, and once we're done, we push it to Github, to ensure that we can put up the links in our resume. That however, isn't the right way to use version control, and definitely not the way it works in the industry. 
 
-- Feature branches
-- PR/MRs
-- CI
+In the industry, version control is used for collaboration between multiple developers who work on various branches/forks, and in case of bugs, track what change was the bug introduced in. There's also a concept of Continuous Integration, which means that code is released in increments, tests are automatically run on it, and that code is integrated into the main central codebase.
+
+All of this is pretty easy to implement in our projects too.
+
+First, set milestones in your project that will determine when an important feature has been implemented or done. For instance, adding the css for a login form, creating the core logic for checkout, and so on. Every time you hit a milestone, you create a new branch, make a commit, and instead of pushing directly to the main branch, you raise a pull request.
+
+Now, you go to Github, and merge it into your main branch. Here an additional step that can be taken up is writing automated tests. Tests that run on each deploy to ensure that it builds well and doesn't break anything. This can be configured using the deployment tools like Netlify. Further details in the deployment section.
+
+The advantage of this process is that this is exactly how things work in the industry - different developers are responsible for different features, so instead of pushing everything on the main branch, they create separate branches and raise pull requests.
 
 8. Code review
 
+This is a process which is norm, necessary and critical in software development teams. There'll be at least 2 other developers who'll look at the code you wrote, to check if it's structured well, logically sound, follows all requirements. This ensures that more bugs can be caught out at the early stage, before moving to the testing environment.
+
+Code reviews are usually done by experienced developers who have already seen lots of code, and thus, are very clear on the common pitfalls and checkpoints they have to ensure are ticked.
+
+Now, in your pet project, in most cases, you'll be working individually, and that means that you don't have anyone to review your code. Anyone but you, that is. And that's what you have to do. Read through your own code. Try to figure out if there are some pieces that can be optimized, refactor it, add helpful comments. 
+
+Reading code is a monotonous exercise, especially when you'd written it yourself, but it's critical to ensuring quality, and something you're gonna spend a lot of time doing in the industry, so do develop this habit.
+
+Once you think your code is as optimal and clean as you can make it, mark it reviewed(Github has a feature for that), and only then merge the PR.
+
 9. Deployment
 
-- Starting with Netlify
-- Going to Heroku
-- Going to AWS/Azure
+So you did a project, which rn, runs on [localhost](http://localhost):8080. You know how it works and looks like, but how're you gonna show it to others. You can't expect every potential interviewer to download your source code, install the dependencies and run it to check. Moreover, no software project is ever made to live on localhost - it has to go to what is called a 'production environment' sometime, where actual users use it.
+
+There's various levels at which you can deploy your project, and they differ based on the tech stack of your project. If it's just HTML, CSS, JS, you can directly activate Github pages from your repository settings and the project will immediately be live on <project-name>.github.io . 
+
+In case of frontend projects involving a JS framework/library like React, Angular etc, you have to use a platform like Netlify, Vercel or Heroku. Netlify is the easiest of the lot. All you have to do is connect your github repo to your netlify account, specify the 'build' command, and that's it. You'll get a deployed link within minutes. Vercel is similar.
+
+Note that backend projects like NodeJS have to have their server on all the time, unlike projects like React, which only build once, and then serve  an index.html file and run JS on the browser. Thus, Netlify/Vercel won't work for backend projects, where you need your server to remain on to accept requests and send responses. Heroku is a good option to start with in this case. It works similar to Netlify in terms of setting up the project.
+
+These platforms, however, abstract away several complexities of deployment, and these are almost never used in software industry settings. In the industry, we use cloud solutions like AWS EC2, GCP or Azure hosting. These provide us servers where we can store and run our app, and they're guaranteed to stay up more than 99.5% of time. These cloud solutions have a zillion other features such as setting up load balancers, domain mapping and more, all of which are common in the industry. 
+
+The only concern is that these platforms have a very limited free tier, and if you're not very careful, you could end up getting an extravagant bill, so when you use these, make sure you follow a decent tutorial, and do not do something without understanding its implications. My record is getting a 4 lakh bill from AWS.
+
+Thus, following these steps will set you off on a journey to do your pet projects in a much more professional, industry-oriented fashion, so that you do not face a lot of trouble when entering the industry.
+
+### Optional
+
+
+1. Team/group projects
+
+    Almost no project in the industry is done by a single person. Even if there's just one developer, there'll be one designer/product manager/tester alongside. And working in a team is world apart from working individually. You have to understand others' code, designs, priorities and tweak your code and thinking accordingly. 
+
+    This point is still optional because group projects aren't possible or feasible for everyone. However, if you can, find a group of 2-3 like minded friends and do a project together. Assign features to different members, have regular meetings, review each others' code, and it'll literally be like working in the industry.
