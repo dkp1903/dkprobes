@@ -105,7 +105,7 @@ class BlogPostTemplate extends React.Component {
 
                 }}
             >
-                <ul
+                {/* <ul
                     style={{
                         width: '80%',
                         display: 'flex',
@@ -122,7 +122,7 @@ class BlogPostTemplate extends React.Component {
                     <li><Link to="/Data-Structures">DSA</Link></li>
                     <li><Link to="/Markets">Markets</Link></li>
                     <li><Link to="/productivity">Productivity</Link></li>
-                </ul>
+                </ul> */}
             </nav>
               <h1 style={{ color: 'var(--textTitle)' }}>
                 {post.frontmatter.title}
