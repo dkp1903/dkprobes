@@ -25,7 +25,7 @@ class Bio extends React.Component {
         <p style={{ maxWidth: 310 }}>
           Probes by{' '}
           <a href="https://dkp.today">Dushyant Pathak</a>.{' '}
-            Easy explain - DSA, Tech, Markets and more
+            I talk about Software Engineering and the rest of the world
         </p>
 
         
