@@ -57,7 +57,7 @@ class BlogIndexTemplate extends React.Component {
         I also occasionally send out newsletters of my writings, so if that interests you, subscribe with your emails below. If not, continue reading, by all means!
 <h2 style={{color: "#6875f5"}}>Tech</h2>
 <u>
-<a href="https://dkprobes.tech/Data-Structures">
+<a href="https://dkprobes.tech/ds">
 <h3 style={{color: "#6875f5", padding: "5px 40px"}}> Data Structures and Algorithms </h3></a> 
 </u>
 <p style={{padding: "0px 40px"}}>
@@ -86,19 +86,16 @@ I have been developing full stack applications in Javascript, Python and related
 for more than 3 years now, and regularly learn new technologies, and architectures, and write about the same, so if that interests you, do check this out. 
 <br /><br />
 
-I also periodically send out a newsletter with my latest articles, so if you want to stay updated, consider subscribing. It' free!
-
-<iframe src="https://dkprobescode.substack.com/embed" style={{background:'#212324', color:'#29ff14', marginLeft: '25%', marginBottom: '0', borderRadius: '19px', width:'350px', height:'100px'}} frameborder="0" scrolling="no"></iframe>
 
 </p>
 <h2 style={{color: "#6875f5"}}>Non Tech</h2>
 
-<a href="https://dkprobes.tech/productivity">
+<a href="https://dkprobes.tech/sen/productivity">
 <h3 style={{size: '30dp', padding: "5px 40px", color: "#6875f5"}} >Productivity</h3></a> 
 <p style={{padding: "0px 40px"}}>
 I routinely experiment with different productivity tools and techniques and write about the experiences, so if that interests you, check this out!
 </p>
-<a href="https://dkprobes.tech/Markets">
+<a href="https://dkprobes.tech/analysis">
 <h3 style={{color: "#6875f5", padding: "5px 40px"}}> Others </h3></a> 
 <p style={{padding: "5px 40px"}}>
 I analyze markets and business strategy in depth, and bring to you, some of 
