@@ -66,9 +66,7 @@
     "js-to-jsx": "node src/utils/js-to-jsx"
   },
   "husky": {
-    "hooks": {
-     
-    }
+    "hooks": {}
   },
   "lint-staged": {
     "{gatsby-*.js,src/**/*.{js,jsx,json,css}}": [

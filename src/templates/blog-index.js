@@ -27,7 +27,7 @@ class BlogIndexTemplate extends React.Component {
                         <nav
                 style={{
                     display: 'flex',
-                    justifyContent: 'center',
+                    justifyContent: 'space-around',
                     alignItems: 'center',
                     minHeight: '10vh',
 
