@@ -33,7 +33,7 @@ class BlogIndexTemplate extends React.Component {
        
 
 <a href="https://dkprobes.tech/ds">
-<h3 style={{color: "#6875f5", padding: "5px 20px"}}>DSA</h3></a> 
+<h3 style={{color: 'var(--textTitle)', padding: "5px 20px"}}>DSA</h3></a> 
 
 <p style={{padding: "0px 20px"}}>
 I've lived long and seen enough in the software industry to realize that you can't get a job without knowing DSA, and so, rather than forcing myself to do it, I try to develop interest in it by writing about my thought process.
@@ -42,7 +42,7 @@ retain the approaches better.
 </p>
 
 <a href="https://dkprobes.tech/sen/tech">
-<h3 style={{size: '30dp', padding: "5px 20px", color: "#6875f5"}} >Full Stack Development</h3></a> 
+<h3 style={{size: '30dp', padding: "5px 20px", color: 'var(--textTitle)'}} >Full Stack Development</h3></a> 
 
 <p style={{padding: "0px 20px"}}>
       Full Stack Development is what's known as firefighting by software engineering veterans, or so I've been told. No, really - software engineering is always about some idiot out there messing something up, and you rushing with your firehose(read, your 'machine') to try
@@ -51,20 +51,20 @@ retain the approaches better.
 </p>
 
 <a href="https://dkprobes.tech/sen/experience">
-<h3 style={{size: '30dp', padding: "5px 20px", color: "#6875f5"}} >The world of software engineering - experiences</h3></a> 
+<h3 style={{size: '30dp', padding: "5px 20px", color: 'var(--textTitle)'}} >The world of software engineering - experiences</h3></a> 
 
 <p style={{padding: "0px 20px"}}>
       Here, I write about some common concepts, processes, reviews and issues in the world of software engineering. I also keep note of my experiences working at each of the companies I have worked with.
 </p>
 
 <a href="https://dkprobes.tech/sen/productivity">
-<h3 style={{size: '30dp', padding: "5px 20px", color: "#6875f5"}} >Productivity</h3></a> 
+<h3 style={{size: '30dp', padding: "5px 20px", color: 'var(--textTitle)'}} >Productivity</h3></a> 
 <p style={{padding: "0px 20px"}}>
 I routinely experiment with different productivity tools and techniques and write about the experiences, so if that interests you, check this out!
 </p>
 
 <a href="https://dkprobes.tech/analysis">
-<h3 style={{color: "#6875f5", padding: "5px 20px"}}> Analysis </h3></a> 
+<h3 style={{color: 'var(--textTitle)', padding: "5px 20px"}}> Analysis </h3></a> 
 <p style={{padding: "5px 20px"}}>
 I analyze markets and business strategy in depth, and bring to you, some of 
 the hottest stories in the market, from complete case studies of WeWork, Uber to 
