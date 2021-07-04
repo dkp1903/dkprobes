@@ -5,9 +5,6 @@ description: Yet another application of Kadane's algo
 tags: ["dsa"]
 
 ---
-In the [last post](https://dkprobes.tech/Data-Structures/kadane), we had introduced Mr Kadane, and we’d used it to solve a problem : Largest Sum Subarray. 
-
-In this post, we try and gain more confidence in applying Kadane, by taking a different problem : 
 
 > Length of longest subarray with equal no of odd and even elements
 
@@ -30,7 +27,7 @@ Remember, in the last post, we worked with sums? Now think, if we replace every 
 
 Let’s see how it looks like in code. 
 
-Oh, and yes, before we go in, I have used an STL data structure called unordered_map here. It is a special type of map, with a small difference. Whereas in a map, values are stored in increasing order, they are stored how they’re added, in an unordered_map. GeeksforGeeks has a great article on the differences here, but the essence is that when we are just counting stuff, without caring a lot about the order, as this case is, using an unordered_map gives us a little better time complexity. 
+Oh, and yes, before we go in, I have used an STL data structure called `unordered_map` here. It is a special type of map, with a small difference. Whereas in a map, values are stored in increasing order, they are stored how they’re added, in an unordered_map. GeeksforGeeks has a great article on the differences here, but the essence is that when we are just counting stuff, without caring a lot about the order, as this case is, using an unordered_map gives us a little better time complexity. 
 
 ```
 #define vi vector<int>
