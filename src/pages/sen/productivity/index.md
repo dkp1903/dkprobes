@@ -8,10 +8,10 @@ tags: ["productivity"]
 
 I talk about productivity tools, techniques, struggles and stories
 
-[My productivity journey - A rant](./my-productivity-journey)
+[My productivity journey - A rant](/sen/productivity/my-productivity-journey)
 
-[Mental health for developers - misunderstood](./mental-health)
+[Mental health for developers - misunderstood](/sen/productivity/mental-health)
 
-[Analysis paralysis](./analysis-paralysis)
+[Analysis paralysis](/sen/productivity/analysis-paralysis)
 
-[If you have come across that LinkedIn overachiever post, read this](./beyond-cp)
+[If you have come across that LinkedIn overachiever post, read this](/sen/productivity/beyond-cp)

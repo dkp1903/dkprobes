@@ -6,20 +6,20 @@ tags: ["tech"]
 
 ---
 
-[First step to AyncJS](./tech/asyncjs-1)
+[First step to AyncJS](/sen/tech/asyncjs-1)
 
-[Client Side Rendering vs Server Side Rendering](./tech/csr-ssr)
+[Client Side Rendering vs Server Side Rendering](/sen/tech/csr-ssr)
 
-[Review notes on the session on Introduction to Git and Github](./tech/git-1)
+[Review notes on the session on Introduction to Git and Github](/sen/tech/git-1)
 
-[Laws of User Experience(UX)](./tech/ux-laws)
+[Laws of User Experience(UX)](/sen/tech/ux-laws)
 
-[IIFEs](./tech/iife)
+[IIFEs](/sen/tech/iife)
 
-[Compiled vs Interpreted languages](./tech/compile-v-interpret)
+[Compiled vs Interpreted languages](/sen/tech/compile-v-interpret)
 
-[Clean JS code](./tech/clean-js-code)
+[Clean JS code](/sen/tech/clean-js-code)
 
-[Intro to Redux](./tech/intro-redux)
+[Intro to Redux](/sen/tech/intro-redux)
 
-[Lessons learnt](./tech/lessons)
+[Lessons learnt](/sen/tech/lessons)
