@@ -23,12 +23,3 @@ tags: ["market"]
 [The WeWork story - Part 2](/analysis/wework-2)
 
 [The WeWork story - Part 3](/analysis/wework-3)
-
-## International Relations - facts and figures
-
-[The US Afghan War - the what and why](./international/afghan-war)
-
-[The precarious Middle East](./international/middle-east)
-
-[The Yemen War - world's worst humanitarian crisis](./international/yemen-war)
-
