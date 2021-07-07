@@ -25,10 +25,18 @@ class BlogIndexTemplate extends React.Component {
             </aside>
             <main>             
                 <p>
-                    I like doing four things in life - Read, Write, Be Sarcastic and play football. The first 3 you can find here - I read tons of stuff - code, articles, analyses, and I write about my interpretations and experiences about those.
+                    I like doing four things in life - 
+                    <ul>
+                        <li>Read,</li> 
+                        <li>Write, </li>
+                        <li>Be Sarcastic</li>  
+                        <li> play football.</li> 
+                      </ul>
+                    The first 3 you can find here - I read tons of stuff - code, articles, analyses, and I write about my interpretations and experiences about those.
+                    <br />
                     From software engineering concepts that you can retain, to how I fire fought my way through 2 years in the software industry, to the mightily unpopular yet equally necessary data structures and algorithms, to some experience driven
                     information on the non-code aspects of the software world, to market analyses, there'll be a lot of writing and a lot of sarcasm.
-
+                    <br />
                     I can't guarantee making this a go-to resource for anything, but what I can guarantee is that you'll never be bored with reading what I write.
        
 
