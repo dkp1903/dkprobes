@@ -25,3 +25,11 @@ Now, a few quick points :
 - No, reading a Netflix blog won't make you ready to interview at Netflix - but it'll teach you a lot about some of the common problems faced, and how they solved it. You can use those techniques in your own projects, even if they're not at Netflix.
 
 - The blogs limit the jargon used, but that doesn't mean newbies are expected to understand everything of it. Remember, most of the blogs are about solving complex business problems at scale - those generally solved by architects with decades of engineering experience. It's okay if you don't understand all they write - just keep upskilling and soon you'll start understanding more and more.
+
+This isn't an exhaustive list, just some of the blogs I know and follow. You can look up some others like 
+- [Facebook Engineering](https://engineering.fb.com/), 
+- [Blackrock Engineering](https://medium.com/blackrock-engineering), 
+- [Quora Engineering](https://quoraengineering.quora.com/), 
+- [Logrocket](https://blog.logrocket.com)
+
+I'll keep adding more to this list as and when I find them. Feel free to reach out to me on [Twitter](https://twitter.com/dkp1903) or [LinkedIn](https://linkedin.com/in/dkp1903) if there's some blog you think can come up here.
