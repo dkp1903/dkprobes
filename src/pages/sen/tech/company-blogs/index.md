@@ -16,7 +16,7 @@ Here are some of the top blogs I'd recommend you follow for a greater understand
 
 3. [Pinterest Engineering](https://medium.com/@Pinterest_Engineering) - Pinterest is a company that's not quite often in the news as are Netflix and Uber, but that in no way undercuts the scale and complexity of what they do, and given the rise in popularity of visual content, they have their hands full with scaling and novelty in user experience, and they love writing about it
 
-4. [Airbnb Engineering](https://airbnb.io/) - Airbnb is a pioneer not just in terms of their business idea, but also in terms of the open source contributions they have brought, not a very common thing for startups where tech isn't the core offering. From JavaScript style guides to libraries for React, data engineering projects, their services make you wonder how much time they actually spend doing their house-rent related stuff.
+4. [Airbnb Engineering](https://medium.com/airbnb-engineering/) - Airbnb is a pioneer not just in terms of their business idea, but also in terms of the open source contributions they have brought, not a very common thing for startups where tech isn't the core offering. From JavaScript style guides to libraries for React, data engineering projects, their services make you wonder how much time they actually spend doing their house-rent related stuff.
 
 5. [Twitter Engineering](https://blog.twitter.com/engineering/en_us) - No one has been more in news than Twitter in the recent months, what with Trump using it as his personal megaphone to spread bullshit until they had enough and kicked him off. But ever thought about the scale at which Twitter operates? How did they ensure that one Trump tweet was sent to his 88 million followers almost simultaneously, and a deleted tweet was also deleted for all 88 million for em, even faster? How did they integrate Revue, a newsletter service they bought, into Twitter? This is the place where they explain it all
 
@@ -32,4 +32,4 @@ This isn't an exhaustive list, just some of the blogs I know and follow. You can
 - [Quora Engineering](https://quoraengineering.quora.com/), 
 - [Logrocket](https://blog.logrocket.com)
 
-I'll keep adding more to this list as and when I find them. Feel free to reach out to me on [Twitter](https://twitter.com/dkp1903) or [LinkedIn](https://linkedin.com/in/dkp1903) if there's some blog you think can come up here.
+Here's a much [more exhaustive repo](https://github.com/kilimchoi/engineering-blogs) containing these and many more such blogs
